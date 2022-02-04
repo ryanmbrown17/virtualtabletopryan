@@ -1,0 +1,856 @@
+{ "data":[
+		
+		{
+			"Name": "Electron crystal, shard",
+			"Description":"While in use, an electron crystal causes a solar weapon to crackle with electricity and dance with magnetic distortions. The user can control these distortions to dull a blow to the target, which many solarians consider to be a useful feature for incapacitating foes. An electron crystal polarizes the energy of a solar weapon, adding electricity damage and allowing you to convert all damage dealt to nonlethal. These crystals are available in shard, least, minor, lesser, standard, greater, and true versions. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "1",
+			"Price": "280",
+			"Damage": "+1 E",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Photon crystal, shard",
+			"Description":"A photon crystal adds compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target. The shard photon crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "1",
+			"Price": "145",
+			"Damage": "+1 F",
+			"Critical": "Burn 1d4",
+			"Critical_Description":"The target gains the burning condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "W-boson crystal, shard",
+			"Description":"A w-boson crystal amplifies the sheer amount of damage a weapon deals. The shard w-boson crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "1",
+			"Price": "215",
+			"Damage": "+1",
+			"Critical": "Bleed 1d4",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Z-boson crystal, shard",
+			"Description":"This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions.  ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "1",
+			"Price": "115",
+			"Damage": "+1",
+			"Critical": "Push 5 ft.",
+			"Critical_Description":"The target is pushed the listed distance away from you. If the target runs into an obstacle, it stops moving and falls prone. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Gluon crystal, shard",
+			"Description":"A gluon crystal creates an entropic field around a weapon that inflicts traumatic wounds. The shard gluon crystal is presented here, while other models can be found on page 180 of the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "2",
+			"Price": "770",
+			"Damage": "+1",
+			"Critical": "Wound",
+			"Critical_Description":"Roll on Table 7-11: Wounding Weapons. The target must succeed at a saving throw of the listed type (if any) or suffer the listed effect. If the creature lacks a specified location, use the general location ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Muon crystal, least",
+			"Description":"Theoretically kin to the electron crystal, a muon crystal turns its user's solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "2",
+			"Price": "760",
+			"Damage": "+1",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Penetrating",
+			"Properties_Description":"Penetrating: A penetrating weapon is designed to punch through large objects' outer layers, making it easier to damage them. A penetrating weapon ignores an amount of hardness equal to the weapon's level. <br><br>"
+		},
+
+		{
+			"Name": "T-quark crystal, least",
+			"Description":"T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal's decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "2",
+			"Price": "750",
+			"Damage": "+1",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Variant-boost 1d3 (2/day)",
+			"Properties_Description":"Variant-boost: <br><br>"
+		},
+
+		{
+			"Name": "Electron crystal, least",
+			"Description":"While in use, an electron crystal causes a solar weapon to crackle with electricity and dance with magnetic distortions. The user can control these distortions to dull a blow to the target, which many solarians consider to be a useful feature for incapacitating foes. An electron crystal polarizes the energy of a solar weapon, adding electricity damage and allowing you to convert all damage dealt to nonlethal. These crystals are available in shard, least, minor, lesser, standard, greater, and true versions. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "3",
+			"Price": "1,430",
+			"Damage": "+1d2 E",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Positron crystal, least",
+			"Description":"A positron crystal's interactions with matter release both heat and radiation, causing a solar weapon it enhances to roar with flame as it strikes enemies. This adds fire damage to the weapon's strikes and adds the irradiate critical hit effect to critical hits scored with the weapon. Unlike many radioactive weapons, a solar weapon enhanced by a positron crystal does not pose any particular risk to its user, although the reason behind this remains unknown. Research into precisely how to preserve these crystals is ongoing; currently only least, minor, and lesser versions remain stable for more than a few seconds, though these are quite powerful. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "3",
+			"Price": "1,310",
+			"Damage": "+1d2 F",
+			"Critical": "Irradiate",
+			"Critical_Description":"The target must succeed at a Fortitude save or contract radiation sickness (Core Rulebook 404). The DC for this disease is equal to the weapon's critical hit DC. This is considered lowlevel radiation, regardless of the save DC. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Muon crystal, minor",
+			"Description":"Theoretically kin to the electron crystal, a muon crystal turns its user's solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "4",
+			"Price": "2,200",
+			"Damage": "+1d2",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Penetrating",
+			"Properties_Description":"Penetrating: A penetrating weapon is designed to punch through large objects' outer layers, making it easier to damage them. A penetrating weapon ignores an amount of hardness equal to the weapon's level. <br><br>"
+		},
+
+		{
+			"Name": "Z-boson crystal, least",
+			"Description":"This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions.  ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "4",
+			"Price": "1,950",
+			"Damage": "+1d2",
+			"Critical": "Push 5 ft.",
+			"Critical_Description":"The target is pushed the listed distance away from you. If the target runs into an obstacle, it stops moving and falls prone. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "T-quark crystal, minor",
+			"Description":"T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal's decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "5",
+			"Price": "3,000",
+			"Damage": "+1d3",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Variant-boost 1d4 (3/day)",
+			"Properties_Description":"Variant-boost: <br><br>"
+		},
+
+		{
+			"Name": "Electron crystal, minor",
+			"Description":"While in use, an electron crystal causes a solar weapon to crackle with electricity and dance with magnetic distortions. The user can control these distortions to dull a blow to the target, which many solarians consider to be a useful feature for incapacitating foes. An electron crystal polarizes the energy of a solar weapon, adding electricity damage and allowing you to convert all damage dealt to nonlethal. These crystals are available in shard, least, minor, lesser, standard, greater, and true versions. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "6",
+			"Price": "3,850",
+			"Damage": "+1d4 E",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "T-quark crystal, lesser",
+			"Description":"T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal's decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "7",
+			"Price": "6,950",
+			"Damage": "+1d4",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Variant-boost 2d4 (3/day)",
+			"Properties_Description":"Variant-boost: <br><br>"
+		},
+
+		{
+			"Name": "Z-boson crystal, minor",
+			"Description":"This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions.  ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "7",
+			"Price": "7,000",
+			"Damage": "+1d4",
+			"Critical": "Push 10 ft.",
+			"Critical_Description":"The target is pushed the listed distance away from you. If the target runs into an obstacle, it stops moving and falls prone. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Electron crystal, lesser",
+			"Description":"While in use, an electron crystal causes a solar weapon to crackle with electricity and dance with magnetic distortions. The user can control these distortions to dull a blow to the target, which many solarians consider to be a useful feature for incapacitating foes. An electron crystal polarizes the energy of a solar weapon, adding electricity damage and allowing you to convert all damage dealt to nonlethal. These crystals are available in shard, least, minor, lesser, standard, greater, and true versions. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "9",
+			"Price": "12,100",
+			"Damage": "+1d6 E",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Muon crystal, lesser",
+			"Description":"Theoretically kin to the electron crystal, a muon crystal turns its user's solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "10",
+			"Price": "18,100",
+			"Damage": "+2d4",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Penetrating",
+			"Properties_Description":"Penetrating: A penetrating weapon is designed to punch through large objects' outer layers, making it easier to damage them. A penetrating weapon ignores an amount of hardness equal to the weapon's level. <br><br>"
+		},
+
+		{
+			"Name": "Z-boson crystal, lesser",
+			"Description":"This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions.  ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "10",
+			"Price": "17,500",
+			"Damage": "+1d8",
+			"Critical": "Push 10 ft.",
+			"Critical_Description":"The target is pushed the listed distance away from you. If the target runs into an obstacle, it stops moving and falls prone. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Electron crystal, standard",
+			"Description":"While in use, an electron crystal causes a solar weapon to crackle with electricity and dance with magnetic distortions. The user can control these distortions to dull a blow to the target, which many solarians consider to be a useful feature for incapacitating foes. An electron crystal polarizes the energy of a solar weapon, adding electricity damage and allowing you to convert all damage dealt to nonlethal. These crystals are available in shard, least, minor, lesser, standard, greater, and true versions. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "12",
+			"Price": "30,500",
+			"Damage": "+3d4 E",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Positron crystal, minor",
+			"Description":"A positron crystal's interactions with matter release both heat and radiation, causing a solar weapon it enhances to roar with flame as it strikes enemies. This adds fire damage to the weapon's strikes and adds the irradiate critical hit effect to critical hits scored with the weapon. Unlike many radioactive weapons, a solar weapon enhanced by a positron crystal does not pose any particular risk to its user, although the reason behind this remains unknown. Research into precisely how to preserve these crystals is ongoing; currently only least, minor, and lesser versions remain stable for more than a few seconds, though these are quite powerful. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "13",
+			"Price": "47,700",
+			"Damage": "+2d8 F",
+			"Critical": "Irradiate",
+			"Critical_Description":"The target must succeed at a Fortitude save or contract radiation sickness (Core Rulebook 404). The DC for this disease is equal to the weapon's critical hit DC. This is considered lowlevel radiation, regardless of the save DC. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "T-quark crystal, standard",
+			"Description":"T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal's decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "13",
+			"Price": "45,000",
+			"Damage": "+1d12",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Variant-boost 2d6 (4/day)",
+			"Properties_Description":"Variant-boost: <br><br>"
+		},
+
+		{
+			"Name": "Z-boson crystal, standard",
+			"Description":"This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions.  ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "13",
+			"Price": "47,500",
+			"Damage": "+2d8",
+			"Critical": "Push 20 ft.",
+			"Critical_Description":"The target is pushed the listed distance away from you. If the target runs into an obstacle, it stops moving and falls prone. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Electron crystal, greater",
+			"Description":"While in use, an electron crystal causes a solar weapon to crackle with electricity and dance with magnetic distortions. The user can control these distortions to dull a blow to the target, which many solarians consider to be a useful feature for incapacitating foes. An electron crystal polarizes the energy of a solar weapon, adding electricity damage and allowing you to convert all damage dealt to nonlethal. These crystals are available in shard, least, minor, lesser, standard, greater, and true versions. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "15",
+			"Price": "93,000",
+			"Damage": "+4d4 E",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "T-quark crystal, greater",
+			"Description":"T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal's decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "16",
+			"Price": "175,000",
+			"Damage": "+3d6",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Variant-boost 3d6 (5/day)",
+			"Properties_Description":"Variant-boost: <br><br>"
+		},
+
+		{
+			"Name": "Muon crystal, standard",
+			"Description":"Theoretically kin to the electron crystal, a muon crystal turns its user's solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "16",
+			"Price": "166,000",
+			"Damage": "+6d4",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Penetrating",
+			"Properties_Description":"Penetrating: A penetrating weapon is designed to punch through large objects' outer layers, making it easier to damage them. A penetrating weapon ignores an amount of hardness equal to the weapon's level. <br><br>"
+		},
+
+		{
+			"Name": "Z-boson crystal, greater",
+			"Description":"This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions.  ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "16",
+			"Price": "177,500",
+			"Damage": "+3d8",
+			"Critical": "Push 25 ft.",
+			"Critical_Description":"The target is pushed the listed distance away from you. If the target runs into an obstacle, it stops moving and falls prone. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Electron crystal, true",
+			"Description":"While in use, an electron crystal causes a solar weapon to crackle with electricity and dance with magnetic distortions. The user can control these distortions to dull a blow to the target, which many solarians consider to be a useful feature for incapacitating foes. An electron crystal polarizes the energy of a solar weapon, adding electricity damage and allowing you to convert all damage dealt to nonlethal. These crystals are available in shard, least, minor, lesser, standard, greater, and true versions. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "18",
+			"Price": "332,000",
+			"Damage": "+6d4 E",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Positron crystal, lesser",
+			"Description":"A positron crystal's interactions with matter release both heat and radiation, causing a solar weapon it enhances to roar with flame as it strikes enemies. This adds fire damage to the weapon's strikes and adds the irradiate critical hit effect to critical hits scored with the weapon. Unlike many radioactive weapons, a solar weapon enhanced by a positron crystal does not pose any particular risk to its user, although the reason behind this remains unknown. Research into precisely how to preserve these crystals is ongoing; currently only least, minor, and lesser versions remain stable for more than a few seconds, though these are quite powerful. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "19",
+			"Price": "528,000",
+			"Damage": "+5d6 F",
+			"Critical": "Irradiate",
+			"Critical_Description":"The target must succeed at a Fortitude save or contract radiation sickness (Core Rulebook 404). The DC for this disease is equal to the weapon's critical hit DC. This is considered lowlevel radiation, regardless of the save DC. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Z-boson crystal, true",
+			"Description":"This specialized weapon crystal causes a solar weapon to twist energy, momentum, and even stranger forces around it. A weapon enhanced with a z-boson crystal deals increased damage and can sometimes give a target unexpected momentum, hurling it backward. Z-boson crystals are fairly esoteric and can be found in shard, least, minor, lesser, standard, greater, and true versions.  ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "19",
+			"Price": "561,000",
+			"Damage": "+4d8",
+			"Critical": "Push 30 ft.",
+			"Critical_Description":"The target is pushed the listed distance away from you. If the target runs into an obstacle, it stops moving and falls prone. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Muon crystal, greater",
+			"Description":"Theoretically kin to the electron crystal, a muon crystal turns its user's solar weapon into a wispy glow in shimmering colors, closer to the auroras certain worlds experience than the unadulterated light of a star. This diffuse weapon slides easily through most matter, making it easier to tear through living creatures and inanimate objects alike. Muon crystals are available in least, minor, lesser, standard, and greater varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "20",
+			"Price": "760,000",
+			"Damage": "+10d4",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Penetrating",
+			"Properties_Description":"Penetrating: A penetrating weapon is designed to punch through large objects' outer layers, making it easier to damage them. A penetrating weapon ignores an amount of hardness equal to the weapon's level. <br><br>"
+		},
+
+		{
+			"Name": "T-quark crystal, true",
+			"Description":"T-quark crystals have a rapid rate of decay that a solarian can manipulate a limited number of times per day to charge his solar weapon for a more powerful strike. When the t-quark crystal is active, the solar weapon is surrounded by a chaotic storm of particles, the spiraling results of the crystal's decay. T-quark crystals are available in least, minor, lesser, standard, greater, and true varieties. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "20",
+			"Price": "750,000",
+			"Damage": "+6d6",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Properties": "Variant-boost 6d6 (5/day)",
+			"Properties_Description":"Variant-boost: <br><br>"
+		},
+
+		{
+			"Name": "Graviton crystal, least",
+			"Description":"Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "5",
+			"Price": "2,900",
+			"Damage": "+1d3",
+			"Critical": "Knockdown",
+			"Critical_Description":"The target is knocked prone(see page 277). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Photon crystal, least",
+			"Description":"A photon crystal adds compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target. The shard photon crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "5",
+			"Price": "2,950",
+			"Damage": "+1d3 F",
+			"Critical": "Burn 1d6",
+			"Critical_Description":"The target gains the burning condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "W-boson crystal, least",
+			"Description":"A w-boson crystal amplifies the sheer amount of damage a weapon deals. The shard w-boson crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "5",
+			"Price": "3,050",
+			"Damage": "+1d4",
+			"Critical": "Bleed 1d6",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Gluon crystal, least",
+			"Description":"A gluon crystal creates an entropic field around a weapon that inflicts traumatic wounds. The shard gluon crystal is presented here, while other models can be found on page 180 of the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "6",
+			"Price": "3,900",
+			"Damage": "+1d4",
+			"Critical": "Wound",
+			"Critical_Description":"Roll on Table 7-11: Wounding Weapons. The target must succeed at a saving throw of the listed type (if any) or suffer the listed effect. If the creature lacks a specified location, use the general location ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Graviton crystal, minor",
+			"Description":"Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "8",
+			"Price": "9,200",
+			"Damage": "+1d6",
+			"Critical": "Knockdown",
+			"Critical_Description":"The target is knocked prone(see page 277). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Photon crystal, minor",
+			"Description":"A photon crystal adds compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target. The shard photon crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "8",
+			"Price": "9,300",
+			"Damage": "+1d6 F",
+			"Critical": "Burn 1d6",
+			"Critical_Description":"The target gains the burning condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "W-boson crystal, minor",
+			"Description":"A w-boson crystal amplifies the sheer amount of damage a weapon deals. The shard w-boson crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "8",
+			"Price": "9,800",
+			"Damage": "+1d6",
+			"Critical": "Bleed 2d6",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Gluon crystal, minor",
+			"Description":"A gluon crystal creates an entropic field around a weapon that inflicts traumatic wounds. The shard gluon crystal is presented here, while other models can be found on page 180 of the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "9",
+			"Price": "11,500",
+			"Damage": "+1d6",
+			"Critical": "Severe wound",
+			"Critical_Description":"Roll twice on Table 7-11: Wounding Weapons and choose your desired result. The target can still attempt any associated save. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Graviton crystal, lesser",
+			"Description":"Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "11",
+			"Price": "24,000",
+			"Damage": "+2d6",
+			"Critical": "Knockdown",
+			"Critical_Description":"The target is knocked prone(see page 277). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Photon crystal, lesser",
+			"Description":"A photon crystal adds compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target. The shard photon crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "11",
+			"Price": "25,100",
+			"Damage": "+2d6 F",
+			"Critical": "Burn 1d6",
+			"Critical_Description":"The target gains the burning condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "W-boson crystal, lesser",
+			"Description":"A w-boson crystal amplifies the sheer amount of damage a weapon deals. The shard w-boson crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "11",
+			"Price": "26,200",
+			"Damage": "+2d6",
+			"Critical": "Bleed 2d6",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Gluon crystal, lesser",
+			"Description":"A gluon crystal creates an entropic field around a weapon that inflicts traumatic wounds. The shard gluon crystal is presented here, while other models can be found on page 180 of the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "12",
+			"Price": "30,800",
+			"Damage": "+2d6",
+			"Critical": "Severe wound",
+			"Critical_Description":"Roll twice on Table 7-11: Wounding Weapons and choose your desired result. The target can still attempt any associated save. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Graviton crystal, standard",
+			"Description":"Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "14",
+			"Price": "69,800",
+			"Damage": "+3d6",
+			"Critical": "Knockdown",
+			"Critical_Description":"The target is knocked prone(see page 277). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Photon crystal, standard",
+			"Description":"A photon crystal adds compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target. The shard photon crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "14",
+			"Price": "71,200",
+			"Damage": "+3d6 F",
+			"Critical": "Burn 2d6",
+			"Critical_Description":"The target gains the burning condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "W-boson crystal, standard",
+			"Description":"A w-boson crystal amplifies the sheer amount of damage a weapon deals. The shard w-boson crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "14",
+			"Price": "81,300",
+			"Damage": "+3d6",
+			"Critical": "Bleed 3d6",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Gluon crystal, standard",
+			"Description":"A gluon crystal creates an entropic field around a weapon that inflicts traumatic wounds. The shard gluon crystal is presented here, while other models can be found on page 180 of the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "15",
+			"Price": "94,200",
+			"Damage": "+3d6",
+			"Critical": "Severe wound",
+			"Critical_Description":"Roll twice on Table 7-11: Wounding Weapons and choose your desired result. The target can still attempt any associated save. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Graviton crystal, greater",
+			"Description":"Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "17",
+			"Price": "251,000",
+			"Damage": "+4d6",
+			"Critical": "Knockdown",
+			"Critical_Description":"The target is knocked prone(see page 277). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Photon crystal, greater",
+			"Description":"A photon crystal adds compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target. The shard photon crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "17",
+			"Price": "246,200",
+			"Damage": "+4d6 F",
+			"Critical": "Burn 3d6",
+			"Critical_Description":"The target gains the burning condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "W-boson crystal, greater",
+			"Description":"A w-boson crystal amplifies the sheer amount of damage a weapon deals. The shard w-boson crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "17",
+			"Price": "274,100",
+			"Damage": "+4d6",
+			"Critical": "Bleed 4d6",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Gluon crystal, greater",
+			"Description":"A gluon crystal creates an entropic field around a weapon that inflicts traumatic wounds. The shard gluon crystal is presented here, while other models can be found on page 180 of the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "18",
+			"Price": "330,300",
+			"Damage": "+4d6",
+			"Critical": "Severe wound",
+			"Critical_Description":"Roll twice on Table 7-11: Wounding Weapons and choose your desired result. The target can still attempt any associated save. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Gluon crystal, true",
+			"Description":"A gluon crystal creates an entropic field around a weapon that inflicts traumatic wounds. The shard gluon crystal is presented here, while other models can be found on page 180 of the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "20",
+			"Price": "916,200",
+			"Damage": "+6d6",
+			"Critical": "Severe wound",
+			"Critical_Description":"Roll twice on Table 7-11: Wounding Weapons and choose your desired result. The target can still attempt any associated save. ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Graviton crystal, true",
+			"Description":"Graviton crystals accelerate the impact of a weapon, dealing extra damage and potentially knocking down targets. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "20",
+			"Price": "727,100",
+			"Damage": "+6d6",
+			"Critical": "Knockdown",
+			"Critical_Description":"The target is knocked prone(see page 277). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Photon crystal, true",
+			"Description":"A photon crystal adds compressed photonic energy to a weapon strike, adding fire damage and the potential to burn the target. The shard photon crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "20",
+			"Price": "729,500",
+			"Damage": "+6d6 F",
+			"Critical": "Burn 5d6",
+			"Critical_Description":"The target gains the burning condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "W-boson crystal, true",
+			"Description":"A w-boson crystal amplifies the sheer amount of damage a weapon deals. The shard w-boson crystal is presented here, while other models can be found in the Core Rulebook. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "20",
+			"Price": "806,000",
+			"Damage": "+6d6",
+			"Critical": "Bleed 6d6",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Properties": " ",
+			"Properties_Description":" : <br><br>"
+		},
+
+		{
+			"Name": "Tauon crystal, least",
+			"Description":"A tauon crystal helps a solarian overwhelm the senses of foes with intense flashes of light and electricity. When this crystal is set to stun, the damage dealt by the solar weapon is nonlethal. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "1",
+			"Price": "235",
+			"Damage": "+1 E",
+			"Critical": "Staggered",
+			"Critical_Description":"The target must succeed at a Fortitude save or be staggered (see page 277) for 1 round. ",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Tauon crystal, minor",
+			"Description":"A tauon crystal helps a solarian overwhelm the senses of foes with intense flashes of light and electricity. When this crystal is set to stun, the damage dealt by the solar weapon is nonlethal. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "4",
+			"Price": "1,850",
+			"Damage": "+1d3 E",
+			"Critical": "Staggered",
+			"Critical_Description":"The target must succeed at a Fortitude save or be staggered (see page 277) for 1 round. ",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Tauon crystal, lesser",
+			"Description":"A tauon crystal helps a solarian overwhelm the senses of foes with intense flashes of light and electricity. When this crystal is set to stun, the damage dealt by the solar weapon is nonlethal. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "7",
+			"Price": "6,000",
+			"Damage": "+1d4 E",
+			"Critical": "Staggered",
+			"Critical_Description":"The target must succeed at a Fortitude save or be staggered (see page 277) for 1 round. ",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Tauon crystal, standard",
+			"Description":"A tauon crystal helps a solarian overwhelm the senses of foes with intense flashes of light and electricity. When this crystal is set to stun, the damage dealt by the solar weapon is nonlethal. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "10",
+			"Price": "17,500",
+			"Damage": "+2d4 E",
+			"Critical": "Staggered",
+			"Critical_Description":"The target must succeed at a Fortitude save or be staggered (see page 277) for 1 round. ",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Tauon crystal, greater",
+			"Description":"A tauon crystal helps a solarian overwhelm the senses of foes with intense flashes of light and electricity. When this crystal is set to stun, the damage dealt by the solar weapon is nonlethal. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "13",
+			"Price": "48,400",
+			"Damage": "+3d4 E",
+			"Critical": "Staggered",
+			"Critical_Description":"The target must succeed at a Fortitude save or be staggered (see page 277) for 1 round. ",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		},
+
+		{
+			"Name": "Tauon crystal, true",
+			"Description":"A tauon crystal helps a solarian overwhelm the senses of foes with intense flashes of light and electricity. When this crystal is set to stun, the damage dealt by the solar weapon is nonlethal. ",
+			"Type": "Solarian Crystal",
+            "Category": "Uncategorized",
+			"Level": "16",
+			"Price": "161,000",
+			"Damage": "+3d8 E",
+			"Critical": "Staggered",
+			"Critical_Description":"The target must succeed at a Fortitude save or be staggered (see page 277) for 1 round. ",
+			"Properties": "Stun",
+			"Properties_Description":"Stun: You can set a weapon with the stun special property to stun mode (or reset it to normal mode) as a move action. While in stun mode, all the weapon's attacks are nonlethal. See page 252 for more about how nonlethal damage works. <br><br>"
+		}
+]}

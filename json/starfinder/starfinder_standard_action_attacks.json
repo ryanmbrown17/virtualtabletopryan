@@ -1,0 +1,29 @@
+{"data":[
+    {
+      "Action":"Melee Attack",
+      "Description":"With a melee weapon, you can strike any opponent in a square adjacent to your space. You add your Strength modifier to your melee attack rolls and to your melee damage rolls. <br> Some melee weapons in Chapter 7 have the reach special property, as indicated in their descriptions, and some monsters have natural reach. Typically, a character or monster with reachcan attack any foe within their reach (see Reach and Threatened Squares on page 255 for more details)."
+    },
+    {
+      "Action":"Ranged Attack",
+      "Description":"With a ranged weapon, you can shoot or otherwise attack a target that is within the weapon’s maximum range and in your line of effect (see page 271). You add your Dexterity modifier to your ranged attack rolls, but not to your ranged damage rolls."
+    },
+    {
+      "Action":"Ranged Attack with a Thrown Weapon",
+      "Description":"With a thrown weapon or a grenade, you can make a ranged attack at a target that is within the weapon’s maximum range and in your line of effect (see page 271). You add your Strength modifier to your ranged attack rolls with a thrown weapon, and to your damage rolls with weapons with the thrown special property. Do not add your Strength modifier to damage rolls with grenades."
+    },
+    {
+      "Action":"Targetting a Grid Intersection",
+      "Description":"When using a weapon with the explode special property or a thrown weapon that has an area effect, such as a grenade, you target a specific grid intersection on a tactical battle map, rather than a specific creature. Treat this as a ranged attack against AC 5."
+    },
+    {
+      "Action":"Missing with a Thrown Weapon",
+      "Description":"If you miss on a ranged attack with a thrown weapon, the weapon lands in a random square or grid intersection as appropriate near your target. To determine where it lands, roll 1d8. This determines the initial misdirection of the throw, with 1 falling short (off-target in a straight line toward the thrower), and 2 through 8 rotating around the target creature or grid intersection in a clockwise direction, as illustrated in the diagram above. After you’ve determined the misdirection of the throw, roll 1d4. The result is how many squares away in that direction the weapon lands.<br>For example, after a missed ranged attack with a grenade, a player rolls 1d8 with a result of 1. This indicates that the grenade’s initial misdirection falls short of the target intersection. Then, the player rolls 1d4 with a result of 2. This determines that the grenade actually lands at an intersection 2 squares in front of the target intersection."
+    },
+    {
+      "Action":"Range and Penalties",
+      "Description":"A ranged weapon’s range increment is listed along with its other statistics (see Chapter 7). If you make an attack with a ranged weapon from a distance greater than its listed range, you take a cumulative –2 penalty to the attack roll for each full range increment of distance between you and the target beyond the first (or fraction thereof).<br>For most ranged weapons, the maximum range is 10 range increments, or 10× the number listed as the weapon’s range. For thrown weapons, the maximum range is 5 range increments. Some ranged weapons have different maximum ranges, but if so, their descriptions specify their maximum ranges."
+    },
+    {
+      "Action":"Critical Hit",
+      "Description":"When you make an attack roll and get a natural 20 (the d20 comes up 20), you hit regardless of your target’s AC. If the total result of your attack roll meets or exceeds the target’s EAC or KAC (as appropriate for your attack), you’ve also scored a critical hit. You roll your damage twice, each time with all your usual bonuses and including any additional damage from special abilities, and then add the rolls together. Some weapons inflict a special effect on a target of a critical hit, in addition to dealing double damage (see page 182).<br>If the total result of your attack is less than your target’s relevant AC, your attack still hits on a natural 20, but it deals damage normally."
+    }]}

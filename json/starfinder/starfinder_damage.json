@@ -1,0 +1,18 @@
+{"data":[
+  {
+    "Name":"Stamina Points",
+    "Description":"Stamina  Points  represent  the  ability  to  turn  a  serious  blow  into  a  less  serious  one  or  to  shrug  off  some  attacks  through  sheer  toughness.  They  act  as  a  buffer  that  absorbs  damage  before  it  starts  to  deplete  your  Hit  Points.  When  you  take  damage,  you  lose Stamina Points first, then you subtract any leftover damage from your Hit Points. If a creature doesn’t have Stamina Points, damage is subtracted directly from its Hit Points"
+  },
+  {
+    "Name":"Hit Points",
+    "Description":"Hit Points measure your ability to take physical punishment and keep going. Running out of Hit Points can be deadly."
+  },
+  {
+    "Name":"Effects of Hit Point Damage",
+    "Description":"Damage  doesn’t  affect  you  until  your  current  Hit  Points  reach  0.  If you take damage to your Hit Points equal to or greater than the Hit Points you have remaining, you are reduced to 0 HP, and you’re knocked unconscious and dying (see below). It doesn’t matter how many  Stamina  Points  you  later  regain  (see  Recovering  Stamina  Points on page 251) if you’re out of Hit Points. You can’t be reduced to fewer than 0 HP (however, see Massive Damage below).<br>For  example,  suppose  Navasi  has  17  HP  and  1  SP.  She  takes  12 damage, is now at 6 HP and 0 SP, and can function normally. On  the  next  enemy’s  turn,  that  enemy  deals  15  damage  to  her,  reducing Navasi to 0 HP. Navasi falls unconscious and is dying."
+  },
+  {
+    "Name":"Massive Damage",
+    "Description":"If you take damage from a single attack that reduces you to 0 HP and there is damage remaining, you die instantly if the remaining damage is equal to or greater than your maximum Hit Points. If you  take  damage  from  a  single  attack  equal  to  or  greater  than  your maximum Hit Points while you have 0 current HP, you die. <br>Suppose  Navasi  has  a  maximum  of  22  HP,  but  she  currently  has 5 HP and 0 SP. She takes 30 damage from an enemy. Navasi is reduced to 0 HP, with 25 damage remaining. Since this damage is greater than her maximum Hit Points, Navasi dies"
+  }
+]}

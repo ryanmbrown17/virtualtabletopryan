@@ -1,0 +1,58 @@
+{"data":[
+        {
+			"Name": "Shuriken",
+			"Description":"Shuriken are bladed thrown weapons most common in the carbonedge form kasathas favor. However, these weapons are versatile and come in various forms for improved cutting power or specialized use. Additionally, the size of shuriken makes them easy to hide and carry. They are ideal for hit-and-run attacks and situations where it might not be prudent to retrieve a thrown weapon. - Dynamo Shuriken: Using the best in miniaturized machine and electronic technology, a dynamo shuriken can use the power it generates when thrown to deliver an electric pulse to a target or to return to its thrower. - Flash Shuriken: The friction of passing air and target impact activates a thrown flash shuriken so that the weapon delivers burn injuries and a potentially blinding flare. - Grooved Shuriken: Fine channels crisscross the surface of a grooved shuriken. When an injectable substance is applied to the shuriken, it gathers in these channels and surface tension holds it in place. The grooves allow injection delivery without a specialized mechanism. Each shuriken holds a single dose of a drug, poison, or medicinal. - Microserrated Shuriken: This is like the carbonedge variety, but has microserrated edges to slice into targets better. - Singing Shuriken: Designed by lashunta hunting specialists using the same acoustic principles as the singing disk, the singing shuriken generates a painful high-pitched whine when thrown and can befuddle a target with a piercing impact that disturbs the inner ear. - Ultraserrated Shuriken: Small but deadly, an ultraserrated shuriken has molecular-level serrations that enhance slashing ",
+			"Type": "Special Weapons One Handed",
+			"Category": "Uncategorized",
+			"Level": "1",
+			"Price": "85 for 10",
+			"Damage": "1d4",
+			"Damage_Type": "P",
+			"Range": "10 ft.",
+			"Critical": "Bleed 1d4",
+			"Critical_Description":"The target gains the bleeding condition (see page 273). ",
+			"Capacity": " Drawn",
+			"Usage": "—",
+			"Bulk": " ",
+			"Properties": "Analog, quick-reload, thrown",
+			"Properties_Description":"Analog: This weapon does not use any advanced electronics, computer systems, or electrical power sources. It is immune to abilities that target technology. While this use of the word \"analog\" is not technically correct when referring to technology, use of the term in this way has become common throughout the Pact Worlds. <br><br>Quick-reload: You can reload this weapon as part of the same action as firing it, instead of taking a move action to reload. <br><br>Thrown: Ranged weapons that must be thrown and melee weapons that can be thrown as a ranged attack have the thrown special property and a listed range increment. You apply your Strength modifier to damage rolls for thrown attacks. After you throw a weapon, it lands near your target and you must recover it if you want to attack with it again. <br><br>"
+		},
+
+		{
+			"Name": "Nyfiber net",
+			"Description":"Created from specialized nylon fibers that contract in response to struggle, nyfiber nets are weighted along the edges to more effectively entangle their targets. Attacks with the net target KAC. ",
+			"Type": "Special Weapons One Handed",
+			"Category": "Uncategorized",
+			"Level": "2",
+			"Price": "460",
+			"Damage": " ",
+			"Damage_Type": " ",
+			"Range": "10 ft.",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Capacity": " Drawn",
+			"Usage": "—",
+			"Bulk": "1",
+			"Properties": "Analog, entangle, thrown",
+			"Properties_Description":"Analog: This weapon does not use any advanced electronics, computer systems, or electrical power sources. It is immune to abilities that target technology. While this use of the word \"analog\" is not technically correct when referring to technology, use of the term in this way has become common throughout the Pact Worlds. <br><br>Entangle: A creature hit by an entangle weapon becomes entangled until it escapes with an Acrobatics check (DC = 10 + weapon's item level + the attacker's Dexterity modifier) or a Strength check (DC = 15 + weapon's item level + the attacker's Dexterity modifier). An entangled creature can attempt such a check as a move action. Some weapons (such as stickybomb grenades) have a maximum duration for this effect. See page 275 for information about the entangled condition. <br><br>Thrown: Ranged weapons that must be thrown and melee weapons that can be thrown as a ranged attack have the thrown special property and a listed range increment. You apply your Strength modifier to damage rolls for thrown attacks. After you throw a weapon, it lands near your target and you must recover it if you want to attack with it again. <br><br>"
+		},
+
+		{
+			"Name": "Bow",
+			"Description":"Modern compound bows are made of aluminum alloys, for superior lightness and durability. The string is made of highperformance polyethylene. Bows fire arrows as ammunition, and they can also be used with grenade arrows for more customized damage and effects. ",
+			"Type": "Speacial Weapon Two Haned",
+			"Category": "Uncategorized",
+			"Level": "1",
+			"Price": "255",
+			"Damage": "1d6",
+			"Damage_Type": "P",
+			"Range": "60 ft.",
+			"Critical": " ",
+			"Critical_Description":"",
+			"Capacity": " Drawn",
+			"Usage": "1",
+			"Bulk": "1",
+			"Properties": "Analog, quick-reload",
+			"Properties_Description":"Analog: This weapon does not use any advanced electronics, computer systems, or electrical power sources. It is immune to abilities that target technology. While this use of the word \"analog\" is not technically correct when referring to technology, use of the term in this way has become common throughout the Pact Worlds. <br><br>Quick-reload: You can reload this weapon as part of the same action as firing it, instead of taking a move action to reload. <br><br>"
+		}
+]}

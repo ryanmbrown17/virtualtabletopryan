@@ -1,0 +1,26 @@
+{"data":[
+  {
+    "Name":"First Aid",
+    "Description":"You  can  stabilize  a  dying  creature  and  keep  it  from  losing  any  more Resolve Points with a successful DC 15 Medicine check."
+  },
+  {
+    "Name":"Healing",
+    "Description":"You  can  stabilize  a  dying  creature  and  keep  it  from  losing  any  more Resolve Points with any sort of healing, such as the stabilizespell.  Healing  that  raises  a  dying  creature’s  Hit  Points  to  1  or  higher makes it conscious and fully functional again, just as if it had never been reduced to 0 HP."
+  },
+  {
+    "Name":"Using Resolve Points",
+    "Description":"If  you  are  dying  and  have  enough  Resolve  Points,  you  can  use  them to stabilize. If you’re stable, you can use Resolve Points to regain consciousness and stay in the fight (see below)."
+  },
+  {
+    "Name":"Stabilize",
+    "Description":"If  you  are  dying  and  you  have  enough  Resolve  Points,  you  can  spend  a  number  of  Resolve  Points  equal  to  one-quarter  your  maximum  (minimum  1  RP,  maximum  3  RP)  on  your  turn  to  immediately stabilize. This means you’re no longer dying, but you remain unconscious and at 0 HP. If you don’t have enough Resolve Points remaining, you cannot use this option and continue to lose Resolve Points as normal as per the dying rules."
+  },
+  {
+    "Name":"Stay in the Fight",
+    "Description":"f you are stable and have enough Resolve Points, or if you were knocked  unconscious  from  nonlethal  damage  (see  page  252),  you can spend 1 RP at the beginning of your turn to regain 1 HP. You  are  no  longer  dying,  immediately  become  conscious,  and  can take the rest of your turn as normal. You can spend Resolve Points to regain Hit Points only if you are at 0 HP and stable, and  you  cannot  regain  more  than  1  HP  in  this  way.  You  can’t  spend Resolve Points to stabilize and to stay in the fight in the same round."
+  },
+  {
+    "Name":"Long-Term Stability",
+    "Description":"If you are unconscious and stable but lack the Resolve Points to stay in the fight, there is a chance you will eventually recover on your own. After 1 hour elapses, you must attempt a Constitution check  (see  Ability  Checks  on  page  242).  If  the  result  of  this  check  is  20  or  higher,  you  regain  1  HP  and  become  conscious  again. If the result of the check is at least 10 but less than 20, you don’t regain any Hit Points, but you remain stable and you must  attempt  another  Constitution  check  1  hour  later.  If  the  result  of  the  check  is  9  or  lower,  you  die.  You  must  continue  attempting a Constitution check once per hour until you regain consciousness  or  until  you  die.  After  8  hours,  if  you  have  not  regained consciousness or died, you regain consciousness and recover 1 HP per character level, as if you had a full night’s rest (see Recovering Hit Points Naturally below).If  a  healer  or  medic  is  tending  you  are  while  you  are  unconscious  and  stable,  the  attendant  can  attempt  a  DC  15  Medicine check each hour before you attempt your Constitution check. If the Medicine check is successful, you gain a +2 bonus to your Constitution check, and if your Constitution check result is less than 10, you treat it as if the result were a 10. <table><tr><th>Constitution Check Result</th><th>Outcome</th></tr><tr><td>20 or higher</td><td>Heal 1 HP, regain consciousness</td></tr><tr><td>10-19</td><td>Remain stable, attempt new check in 1 hour</td></tr><tr><td>9 or lower</td><td>Die</td></tr></table>"
+  }
+]}

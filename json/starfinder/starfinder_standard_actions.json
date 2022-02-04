@@ -1,0 +1,49 @@
+{"data":[
+    {
+      "Action":"Activate an Item",
+      "Description":"Many technological and magic items, such as a cybernetic arm, don’t need to be activated. Certain items, however, do need to be activated to have an effect. Unless otherwise noted, activating such an item is a standard action."
+    },
+    {
+      "Action":"Attack",
+      "Description":"Making a single attack is a standard action."
+    },
+    {
+      "Action":"Cast a Spell",
+      "Description":"The vast majority of spells require at least a standard action to cast, and  sometimes  more.  Spells  that  take  more  than  a  round  to  cast  require  a  full  action  each  round  until  they  are  complete.  For  more  information about how spells and magic work, see Chapter 10."
+    },
+    {
+      "Action":"Combat Maneuver",
+      "Description":"As a standard action, you can attempt one of the following combat maneuvers.  For  each  maneuver,  choose  an  opponent  within  your  reach (including your weapon’s reach, if applicable) and then make a melee attack roll against the opponent’s KAC + 8. The effects of success vary depending on the maneuver, as described below"
+    },
+    {
+      "Action":"Concentrate to Maintain a Spell",
+      "Description":"Some  spells  require  continued  concentration  to  keep  them  going. Concentrating to maintain a spell is a standard action (see Duration on page 270 for more information about concentration)."
+    },
+    {
+      "Action":"Covering Fire",
+      "Description":"You can use your standard action to make a ranged attack that provides  covering  fire  for  an  ally.  Make  a  ranged  attack  roll  against  AC  15.  If  you  hit,  you  deal  no  damage  but  the  selected  ally gains a +2 circumstance bonus to AC against the next attack from  a  creature  in  your  line  of  effect  (see  page  271),  so  long  as  that attack occurs before your next turn"
+    },
+    {
+      "Action":"Dismiss a Spell",
+      "Description":"Dismissing an active spell is a standard action (see Duration on page 270 for more information about dismissible spells)."
+    },
+    {
+      "Action":"Feint",
+      "Description":"You can use your standard action to feint by attempting a Bluff check. The DC of this check is equal to either 10 + your opponent’s Sense Motive total skill bonus or 15 + 1-1/2 × the opponent’s CR, whichever  is  greater.  You  can’t  feint  against  a  creature  that  lacks  an  Intelligence  score,  and  you  cannot  take  10  or  take  20  (see page 133 in Chapter 5) on a Bluff check to feint. When you successfully feint, you treat your opponent as flat-footed for your next attack against him before the end of your next turn."
+    },
+    {
+      "Action":"Fight Defensively",
+      "Description":"You  can  fight  defensively  when  attacking  as  part  of  a  standard  action.  If  you  do,  you  take  a  –4  penalty  to  attacks  and  gain  a  +2  bonus to AC until the start of your next turn"
+    },
+    {
+      "Action":"Harrying Fire",
+      "Description":"You can use your standard action to make a ranged attack that distracts a foe in your line of effect. Make an attack roll against AC 15. If you hit, you deal no damage, but the next ally to attack that foe gains a +2 circumstance bonus to her next attack roll, as long as that attack occurs before your next turn."
+    },
+    {
+      "Action":"Total Defense",
+      "Description":"You  can  defend  yourself  as  a  standard  action.  Starting  at  the  beginning of this action, you get a +4 bonus to your Armor Class until the start of your next turn. You can’t combine total defense with  other  actions  that  increase  your  AC,  nor  can  you  make  attacks of opportunity while benefiting from total defense"
+    },
+    {
+      "Action":"Use a Special Ability",
+      "Description":"There are three types of special abilities: extraordinary, spell-like, and  supernatural.  Special  abilities  often  carry  the  parenthetical  abbreviations  (Ex),  (Sp),  or  (Su)  to  indicate  whether  they  are  extraordinary,   spell-like,   or   supernatural   abilities.   Some   are   ongoing,   while   others   are   use-activated.   For   more   details,   including descriptions of specific special abilities, see page 262.<br>Using  a  special  ability  is  usually  a  standard  action,  unless  it  is  an  ongoing  ability  or  the  ability  says  otherwise.  In  rare  cases,  an ability might take a full action or a move action to activate. In most cases, a use-activated special ability cannot be activated as a swift action. Using a spell-like ability typically provokes attacks of opportunity (see page 248) unless stated otherwise."
+    }]}

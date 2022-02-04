@@ -1,0 +1,398 @@
+{
+    "data":[
+		{
+			"Name": "Arrows",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "50",
+			"Amount": "20",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Battery",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "60",
+			"Amount": "20",
+			"Bulk": " ",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Battery, high-capacity",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "4",
+			"Price": "330",
+			"Amount": "40",
+			"Bulk": " ",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Battery, super-capacity",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "4",
+			"Price": "390",
+			"Amount": "80",
+			"Bulk": " ",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Battery, ultra-capacity",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "5",
+			"Price": "445",
+			"Amount": "100",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Darts",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "20",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Flare",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "5",
+			"Amount": "1",
+			"Bulk": " ",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Mini-rockets",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "4",
+			"Price": "300",
+			"Amount": "10",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Petrol tank, standard",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "60",
+			"Amount": "20",
+			"Bulk": "1",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Petrol tank, high-capacity",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "3",
+			"Price": "280",
+			"Amount": "40",
+			"Bulk": "2",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Rounds, small arm",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "40",
+			"Amount": "30",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Rounds, longarm and sniper",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "75",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Rounds, heavy",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "2",
+			"Price": "90",
+			"Amount": "20",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Scattergun shells",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "55",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Nanite canisters 9",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "2,150",
+			"Price": "10",
+			"Amount": "nanites",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Flechettes",
+			"Type": "Ammunition",
+			"Category": "Standard",
+			"Level": "1",
+			"Price": "75",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Grenade arrow I",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "6",
+			"Price": "875",
+			"Amount": "1",
+			"Bulk": " ",
+			"Properties": "As any 1st-level grenade"
+		},
+
+		{
+			"Name": "Grenade arrow II",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "10",
+			"Price": "5,450",
+			"Amount": "1",
+			"Bulk": " ",
+			"Properties": "As any 5th- or lower-level grenade"
+		},
+
+		{
+			"Name": "Grenade arrow III",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "15",
+			"Price": "32,050",
+			"Amount": "1",
+			"Bulk": " ",
+			"Properties": "As any 10th- or lower-level grenade"
+		},
+
+		{
+			"Name": "Grenade arrow IV",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "20",
+			"Price": "245,000",
+			"Amount": "1",
+			"Bulk": " ",
+			"Properties": "As any 15th- or lower-level grenade"
+		},
+
+		{
+			"Name": "Tactical missile",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "10",
+			"Price": "5,700",
+			"Amount": "1",
+			"Bulk": "1",
+			"Properties": "Explode 6d8 b & p (30 ft.)"
+		},
+
+		{
+			"Name": "Advanced missile",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "13",
+			"Price": "14,600",
+			"Amount": "1",
+			"Bulk": "1",
+			"Properties": "Explode 13d8 b & f"
+		},
+
+		{
+			"Name": "Explosive arrow",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "2",
+			"Price": "75",
+			"Amount": "20",
+			"Bulk": "L",
+			"Properties": "Fiery"
+		},
+
+		{
+			"Name": "Explosive darts",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "2",
+			"Price": "50",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": "Fiery"
+		},
+
+		{
+			"Name": "Explosive rounds, small arm",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "2",
+			"Price": "60",
+			"Amount": "30",
+			"Bulk": "L",
+			"Properties": "Fiery"
+		},
+
+		{
+			"Name": "Explosive rounds, longarm and sniper",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "2",
+			"Price": "150",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": "Fiery"
+		},
+
+		{
+			"Name": "Explosive scattergun shells",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "2",
+			"Price": "110",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": "Fiery"
+		},
+
+		{
+			"Name": "Explosive rounds, heavy",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "3",
+			"Price": "180",
+			"Amount": "20",
+			"Bulk": "L",
+			"Properties": "Fiery"
+		},
+
+		{
+			"Name": "Explosive mini-rockets",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "5",
+			"Price": "450",
+			"Amount": "10",
+			"Bulk": "L",
+			"Properties": "Fiery"
+		},
+
+		{
+			"Name": "Phasing I longarm and sniper rounds",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "7",
+			"Price": "820",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Plasma missile, ionized",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "11",
+			"Price": "6,700",
+			"Amount": "1",
+			"Bulk": "1",
+			"Properties": "Damage 8d8 e & f"
+		},
+
+		{
+			"Name": "Arrows, diamond-edge",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "12",
+			"Price": "5,200",
+			"Amount": "20",
+			"Bulk": "L",
+			"Properties": "Damage 4d6 p"
+		},
+
+		{
+			"Name": "Phasing II longarm and sniper rounds",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "14",
+			"Price": "9,420",
+			"Amount": "25",
+			"Bulk": "L",
+			"Properties": " "
+		},
+
+		{
+			"Name": "Plasma missile, stellar",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "16",
+			"Price": "53,200",
+			"Amount": "1",
+			"Bulk": "1",
+			"Properties": "Damage 12d10 e & f"
+		},
+
+		{
+			"Name": "Arrows, molecular rift",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "18",
+			"Price": "53,700",
+			"Amount": "20",
+			"Bulk": "L",
+			"Properties": "Damage 10d6 p"
+		},
+
+		{
+			"Name": "Plasma missile, HED",
+			"Type": "Ammunition",
+			"Category": "Special",
+			"Level": "19",
+			"Price": "175,000",
+			"Amount": "1",
+			"Bulk": "1",
+			"Properties": "Damage 17d12 e & f"
+		}
+]}

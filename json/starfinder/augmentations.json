@@ -1,0 +1,1025 @@
+{"data":[
+	{
+		"Type":"Biotech",
+		"Body Parts":"Lungs ",
+		"Price":"130",
+		"Level":"1",
+		"Name":"Pressurized lungs",
+		"Description":"You can hold your breath for up to 1 hour and are immune to the normal environmental effects of being in a vacuum. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Hand ",
+		"Price":"330",
+		"Level":"1",
+		"Name":"Restraining spinneret",
+		"Description":"Your hand conceals a rapid-acting spinneret you can use to entangle an opponent with sticky webbing if you succeed at a melee attack against their EAC. You can add your Dexterity modifier to this attack roll rather than your Strength modifier. If you hit, your target gains the entangled condition for 1d4 rounds. Ending the entangled condition requires the target to succeed at an Acrobatics check or Strength check as a move action (DC = 10 + half your level + your Dexterity modifier). Once you have used your restraining spinneret, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Skin ",
+		"Price":"700",
+		"Level":"2",
+		"Name":"Resistant hide, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resistance</th></tr><tr><td>Mk1</td><td>2</td><td>700</td><td>2</td></tr><tr><td>Mk2</td><td>4</td><td>1,900</td><td>4</td></tr><tr><td>Mk3</td><td>7</td><td>5,890</td><td>6</td></tr><tr><td>Mk4</td><td>10</td><td>17,000</td><td>8</td></tr><tr><td>Mk5</td><td>13</td><td>46,350</td><td>10</td></tr><tr><td>Mk6</td><td>17</td><td>230,850</td><td>15</td></tr></table>Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that's equal to or greater than that of your resistant hide (and doesn't explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"All feet ",
+		"Price":"850",
+		"Level":"2",
+		"Name":"Swimming fins",
+		"Description":"Your feet are altered to include broad fins, providing you with a swim speed of 20 feet. You don't need to attempt an Athletics check to swim. You don't benefit from swimming fins unless you're barefoot or wearing custom clothing, and you can't be wearing armor heavier than light armor. Swimming fins integrate into your natural feet and don't interfere with your normal land speed. Swimming fins can be installed into the feet of prosthetic legs. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"All hands ",
+		"Price":"1,350",
+		"Level":"3",
+		"Name":"Clinging hands",
+		"Description":"Your hands are covered with tiny fibers like those on a gecko's toes. You gain a +2 circumstance bonus to your KAC against disarm combat maneuvers and to attacks to perform disarm and grapple combat maneuvers. You can ignore any increase to the DCs of Athletics checks to climb due to slipperiness, iciness, or heavy gravity. You can't benefit from clinging hands if you are wearing armor or gloves that have not been either tailored or adjusted for you (Core Rulebook 196). "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Throat ",
+		"Price":"1,275",
+		"Level":"3",
+		"Name":"Mighty vocal cords",
+		"Description":"You can mimic the roar of a powerful predator, such as the renkrodas of Castrovel. As a standard action you can bellow ferociously, causing all enemies within 30 feet of you to become shaken for 1d4+1 rounds. A target can attempt a Will saving throw (DC = 10 + half your character level + your Constitution modifier) to negate this effect; a creature that succeeds at this saving throw is immune to your mighty vocal cords for 24 hours. Once you use your mighty vocal cords, you can't use them again until you've rested for 10 minutes to regain Stamina Points. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Skin ",
+		"Price":"1,900",
+		"Level":"4",
+		"Name":"Resistant hide, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resistance</th></tr><tr><td>Mk1</td><td>2</td><td>700</td><td>2</td></tr><tr><td>Mk2</td><td>4</td><td>1,900</td><td>4</td></tr><tr><td>Mk3</td><td>7</td><td>5,890</td><td>6</td></tr><tr><td>Mk4</td><td>10</td><td>17,000</td><td>8</td></tr><tr><td>Mk5</td><td>13</td><td>46,350</td><td>10</td></tr><tr><td>Mk6</td><td>17</td><td>230,850</td><td>15</td></tr></table>Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that's equal to or greater than that of your resistant hide (and doesn't explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Heart ",
+		"Price":"3,250",
+		"Level":"5",
+		"Name":"Regenerative blood, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Hit</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>5</td><td>3,250</td><td>5</td></tr><tr><td>Mk2</td><td>8</td><td>10,100</td><td>10</td></tr><tr><td>Mk3</td><td>12</td><td>38,500</td><td>15</td></tr><tr><td>Mk4</td><td>15</td><td>122,000</td><td>20</td></tr><tr><td>Mk5</td><td>19</td><td>605,000</td><td>25</td></tr></table>Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain  additional Hit Points. The amount of Hit Points you regain is based on the augmentation's model. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Eyes ",
+		"Price":"4,000",
+		"Level":"6",
+		"Name":"Eagle eyes",
+		"Description":"You gain a +2 circumstance bonus to Perception checks to notice a creature using Stealth and to pierce disguises. You can use Perception to visually search areas up to 10 feet by 10 feet as a move action or up to 30 feet by 30 feet in 1 minute. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Skin ",
+		"Price":"5,890",
+		"Level":"7",
+		"Name":"Resistant hide, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resistance</th></tr><tr><td>Mk1</td><td>2</td><td>700</td><td>2</td></tr><tr><td>Mk2</td><td>4</td><td>1,900</td><td>4</td></tr><tr><td>Mk3</td><td>7</td><td>5,890</td><td>6</td></tr><tr><td>Mk4</td><td>10</td><td>17,000</td><td>8</td></tr><tr><td>Mk5</td><td>13</td><td>46,350</td><td>10</td></tr><tr><td>Mk6</td><td>17</td><td>230,850</td><td>15</td></tr></table>Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that's equal to or greater than that of your resistant hide (and doesn't explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"All arms ",
+		"Price":"6,400",
+		"Level":"7",
+		"Name":"Ultralight wings, strix",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Fly</th><th class=interior>Speed</th></tr><tr><td>Strix</td><td>7</td><td>6,400</td><td>40ft.</td></tr><tr><td>Angel</td><td>11</td><td>28,600</td><td>60ft.</td></tr><tr><td>Dragon</td><td>14</td><td>80,300</td><td>90ft.</td></tr></table>A set of wings that can fold up tightly is attached to your shoulder blades. You can deploy or fold up the wings as a move action. When deployed, the wings provide you with an extraordinary fly speed with clumsy maneuverability according to the model of ultralight wings you have. You can't deploy your ultralight wings unless your shoulders are bare or you are wearing custom clothing, and you can't use your wings to fly if you are encumbered, overburdened, or wearing more than light armor. Ultralight wings integrate into your natural shoulders and can be installed into prosthetic arms. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Heart ",
+		"Price":"10,100",
+		"Level":"8",
+		"Name":"Regenerative blood, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Hit</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>5</td><td>3,250</td><td>5</td></tr><tr><td>Mk2</td><td>8</td><td>10,100</td><td>10</td></tr><tr><td>Mk3</td><td>12</td><td>38,500</td><td>15</td></tr><tr><td>Mk4</td><td>15</td><td>122,000</td><td>20</td></tr><tr><td>Mk5</td><td>19</td><td>605,000</td><td>25</td></tr></table>Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain  additional Hit Points. The amount of Hit Points you regain is based on the augmentation's model. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Hand ",
+		"Price":"15,600",
+		"Level":"9",
+		"Name":"Shock fist, static",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Static</td><td>9</td><td>15,600</td><td>1d12E</td><td>Arc1d4</td></tr><tr><td>Aurora</td><td>12</td><td>41,400</td><td>2d12E</td><td>Arc2d4</td></tr><tr><td>Storm</td><td>17</td><td>297,000</td><td>4d12E</td><td>Arc3d4</td></tr><tr><td>Tempest</td><td>20</td><td>1,075,000</td><td>6d12E</td><td>Arc6d4</td></tr></table>When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation's model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don't threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you've used the shock fist for a single attack, you can't use it again until you've rested for 10 minutes to regain Stamina Point "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Spinal column ",
+		"Price":"17,900",
+		"Level":"10",
+		"Name":"Prehensile tail",
+		"Description":"A long tail attached to the base of your spine helps you balance and climb. You gain a +1 insight bonus to Acrobatics checks and to Athletics checks to climb. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Skin ",
+		"Price":"17,000",
+		"Level":"10",
+		"Name":"Resistant hide, mk 4",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resistance</th></tr><tr><td>Mk1</td><td>2</td><td>700</td><td>2</td></tr><tr><td>Mk2</td><td>4</td><td>1,900</td><td>4</td></tr><tr><td>Mk3</td><td>7</td><td>5,890</td><td>6</td></tr><tr><td>Mk4</td><td>10</td><td>17,000</td><td>8</td></tr><tr><td>Mk5</td><td>13</td><td>46,350</td><td>10</td></tr><tr><td>Mk6</td><td>17</td><td>230,850</td><td>15</td></tr></table>Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that's equal to or greater than that of your resistant hide (and doesn't explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Brain ",
+		"Price":"23,400",
+		"Level":"11",
+		"Name":"Backup lobe",
+		"Description":"You install a secondary lobe in your brain that can shore up your mental faculties when your mind is compromised. At the beginning of your turn, you can spend 1 Resolve Point (this doesn't require an action) to ignore one of the following conditions until the beginning of your next turn: confused, frightened, or shaken. Alternatively, at the beginning of your turn, you can spend 2 Resolve Points (this doesn't require an action) to ignore one of the following conditions until the beginning of your next turn: cowering, dazed, panicked, or stunned. If you spend any Resolve Points in this fashion, you are staggered until the beginning of your next turn. The condition still functions normally for the purposes of duration and removing it. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"All arms ",
+		"Price":"28,600",
+		"Level":"11",
+		"Name":"Ultralight wings, angel",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Fly</th><th class=interior>Speed</th></tr><tr><td>Strix</td><td>7</td><td>6,400</td><td>40ft.</td></tr><tr><td>Angel</td><td>11</td><td>28,600</td><td>60ft.</td></tr><tr><td>Dragon</td><td>14</td><td>80,300</td><td>90ft.</td></tr></table>A set of wings that can fold up tightly is attached to your shoulder blades. You can deploy or fold up the wings as a move action. When deployed, the wings provide you with an extraordinary fly speed with clumsy maneuverability according to the model of ultralight wings you have. You can't deploy your ultralight wings unless your shoulders are bare or you are wearing custom clothing, and you can't use your wings to fly if you are encumbered, overburdened, or wearing more than light armor. Ultralight wings integrate into your natural shoulders and can be installed into prosthetic arms. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Heart ",
+		"Price":"38,500",
+		"Level":"12",
+		"Name":"Regenerative blood, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Hit</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>5</td><td>3,250</td><td>5</td></tr><tr><td>Mk2</td><td>8</td><td>10,100</td><td>10</td></tr><tr><td>Mk3</td><td>12</td><td>38,500</td><td>15</td></tr><tr><td>Mk4</td><td>15</td><td>122,000</td><td>20</td></tr><tr><td>Mk5</td><td>19</td><td>605,000</td><td>25</td></tr></table>Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain  additional Hit Points. The amount of Hit Points you regain is based on the augmentation's model. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Hand ",
+		"Price":"41,400",
+		"Level":"12",
+		"Name":"Shock fist, aurora",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Static</td><td>9</td><td>15,600</td><td>1d12E</td><td>Arc1d4</td></tr><tr><td>Aurora</td><td>12</td><td>41,400</td><td>2d12E</td><td>Arc2d4</td></tr><tr><td>Storm</td><td>17</td><td>297,000</td><td>4d12E</td><td>Arc3d4</td></tr><tr><td>Tempest</td><td>20</td><td>1,075,000</td><td>6d12E</td><td>Arc6d4</td></tr></table>When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation's model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don't threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you've used the shock fist for a single attack, you can't use it again until you've rested for 10 minutes to regain Stamina Point "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Skin ",
+		"Price":"46,350",
+		"Level":"13",
+		"Name":"Resistant hide, mk 5",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resistance</th></tr><tr><td>Mk1</td><td>2</td><td>700</td><td>2</td></tr><tr><td>Mk2</td><td>4</td><td>1,900</td><td>4</td></tr><tr><td>Mk3</td><td>7</td><td>5,890</td><td>6</td></tr><tr><td>Mk4</td><td>10</td><td>17,000</td><td>8</td></tr><tr><td>Mk5</td><td>13</td><td>46,350</td><td>10</td></tr><tr><td>Mk6</td><td>17</td><td>230,850</td><td>15</td></tr></table>Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that's equal to or greater than that of your resistant hide (and doesn't explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"All arms ",
+		"Price":"80,300",
+		"Level":"14",
+		"Name":"Ultralight wings, dragon",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Fly</th><th class=interior>Speed</th></tr><tr><td>Strix</td><td>7</td><td>6,400</td><td>40ft.</td></tr><tr><td>Angel</td><td>11</td><td>28,600</td><td>60ft.</td></tr><tr><td>Dragon</td><td>14</td><td>80,300</td><td>90ft.</td></tr></table>A set of wings that can fold up tightly is attached to your shoulder blades. You can deploy or fold up the wings as a move action. When deployed, the wings provide you with an extraordinary fly speed with clumsy maneuverability according to the model of ultralight wings you have. You can't deploy your ultralight wings unless your shoulders are bare or you are wearing custom clothing, and you can't use your wings to fly if you are encumbered, overburdened, or wearing more than light armor. Ultralight wings integrate into your natural shoulders and can be installed into prosthetic arms. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Heart ",
+		"Price":"122,000",
+		"Level":"15",
+		"Name":"Regenerative blood, mk 4",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Hit</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>5</td><td>3,250</td><td>5</td></tr><tr><td>Mk2</td><td>8</td><td>10,100</td><td>10</td></tr><tr><td>Mk3</td><td>12</td><td>38,500</td><td>15</td></tr><tr><td>Mk4</td><td>15</td><td>122,000</td><td>20</td></tr><tr><td>Mk5</td><td>19</td><td>605,000</td><td>25</td></tr></table>Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain  additional Hit Points. The amount of Hit Points you regain is based on the augmentation's model. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Skin ",
+		"Price":"230,850",
+		"Level":"17",
+		"Name":"Resistant hide, mk 6",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resistance</th></tr><tr><td>Mk1</td><td>2</td><td>700</td><td>2</td></tr><tr><td>Mk2</td><td>4</td><td>1,900</td><td>4</td></tr><tr><td>Mk3</td><td>7</td><td>5,890</td><td>6</td></tr><tr><td>Mk4</td><td>10</td><td>17,000</td><td>8</td></tr><tr><td>Mk5</td><td>13</td><td>46,350</td><td>10</td></tr><tr><td>Mk6</td><td>17</td><td>230,850</td><td>15</td></tr></table>Your skin is reinforced with fur, scales, or other genetically engineered tissue. Select one type of energy (acid, cold, electricity, fire, or sonic); you gain an amount of resistance to that energy type based on the model of your resistant hide. If you have a racial trait that provides resistance to the selected energy type that's equal to or greater than that of your resistant hide (and doesn't explicitly stack with other sources of energy resistance), adding resistant hide increases the value of the energy resistance from the trait by 2. If you have a racial trait that provides resistance to the selected energy type of a value less than that of your resistant hide, the value of the resistance from your resistant hide increases by 2. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Hand ",
+		"Price":"297,000",
+		"Level":"17",
+		"Name":"Shock fist, storm",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Static</td><td>9</td><td>15,600</td><td>1d12E</td><td>Arc1d4</td></tr><tr><td>Aurora</td><td>12</td><td>41,400</td><td>2d12E</td><td>Arc2d4</td></tr><tr><td>Storm</td><td>17</td><td>297,000</td><td>4d12E</td><td>Arc3d4</td></tr><tr><td>Tempest</td><td>20</td><td>1,075,000</td><td>6d12E</td><td>Arc6d4</td></tr></table>When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation's model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don't threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you've used the shock fist for a single attack, you can't use it again until you've rested for 10 minutes to regain Stamina Point "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Lungs ",
+		"Price":"342,000",
+		"Level":"18",
+		"Name":"Cleansing breath",
+		"Description":"Organic sacs implanted within your lungs cause you to exhale airborne antibodies and antitoxins. You and creatures breathing the same air within 30 feet of you can roll twice on saving throws against diseases and poisons and take the higher result. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Heart ",
+		"Price":"605,000",
+		"Level":"19",
+		"Name":"Regenerative blood, mk 5",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Hit</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>5</td><td>3,250</td><td>5</td></tr><tr><td>Mk2</td><td>8</td><td>10,100</td><td>10</td></tr><tr><td>Mk3</td><td>12</td><td>38,500</td><td>15</td></tr><tr><td>Mk4</td><td>15</td><td>122,000</td><td>20</td></tr><tr><td>Mk5</td><td>19</td><td>605,000</td><td>25</td></tr></table>Your heart is genetically engineered to release regenerative chemicals that can heal physical trauma. Whenever you take a 10-minute rest and spend a Resolve Point to regain Stamina Points, you also regain a number of Hit Points. Similarly, when you spend Resolve Points to stay in the fight, you regain  additional Hit Points. The amount of Hit Points you regain is based on the augmentation's model. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Hand ",
+		"Price":"1,075,000",
+		"Level":"20",
+		"Name":"Shock fist, tempest",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Static</td><td>9</td><td>15,600</td><td>1d12E</td><td>Arc1d4</td></tr><tr><td>Aurora</td><td>12</td><td>41,400</td><td>2d12E</td><td>Arc2d4</td></tr><tr><td>Storm</td><td>17</td><td>297,000</td><td>4d12E</td><td>Arc3d4</td></tr><tr><td>Tempest</td><td>20</td><td>1,075,000</td><td>6d12E</td><td>Arc6d4</td></tr></table>When you attack with this bioelectric organ implanted in the palm of your hand, your unarmed strike loses the archaic and nonlethal properties. You deal only the amount of damage listed for the augmentation's model (plus additional damage from Weapon Specialization, if applicable), even if you have other abilities that increase your unarmed strike damage (such as natural weapons or the Improved Unarmed Strike feat). You don't threaten squares within your natural reach unless you have some other way to do so (such as natural weapons or the Improved Unarmed Strike feat). The hand in which this augmentation is installed must be free to make an attack with it. Once you've used the shock fist for a single attack, you can't use it again until you've rested for 10 minutes to regain Stamina Point "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Lungs ",
+		"Price":"95",
+		"Level":"1",
+		"Name":"Gill sheath",
+		"Description":"An external lining striated with oxygen-filtering nodules coats the outside of your lungs. If you breathe in water, it filters into the lining, where the nodules extract the oxygen and deposit it into your lungs. This lets you breathe underwater or in the air. You still exhale normally. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Throat ",
+		"Price":"755",
+		"Level":"2",
+		"Name":"Dragon gland, wyrmling",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Wyrmling</td><td>2</td><td>755</td></tr><tr><td>Standard</td><td>10</td><td>19,125</td></tr><tr><td>Wyrm</td><td>16</td><td>181,500</td></tr></table>You implant an arcanicus gland modified to function for a creature of your race at the back of your throat. You can trigger this gland as a standard action to expel a breath weapon in a 15- foot cone as an extraordinary ability. Choose the damage type when the organ is biocrafted, picking from the following list: acid, cold, electricity, or fire. You are not harmed by using your own breath weapon. Once you've used your breath weapon, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. A wyrmling dragon gland deals 3d6 damage, a standard gland deals 9d6 damage, and a wyrm gland deals 18d6 damage. Targets in the area can attempt a Reflex save (DC = 10 + half your level + your Constitution modifier) to take only half damage. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Hand ",
+		"Price":"625",
+		"Level":"2",
+		"Name":"Venom spur",
+		"Description":"You implant a retractable stinger and venom sac into your hand. You can extend this stinger as a swift action but only while you aren't holding anything in that hand. While extended, the venom spur is a one-handed basic melee weapon that deals 1d6 piercing damage and automatically injects venom into a struck target. An affected creature can attempt a Fortitude saving throw (DC = 10 + half your level + your Constitution modifier) to resist the effects of your venom. On a failed save, the creature takes 2d6 damage immediately and must attempt a new Fortitude saving throw at the start of its turn each round to end the effect. Each time it fails this save, it takes an additional 2d6 damage. Effects such as remove affliction and antitoxin affect this venom as though it were a poison. Once used, the venom sac doesn't refill until the next time you rest to regain Stamina Points. While it's empty, you can still attack with the stinger but can't envenomate your target. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Throat ",
+		"Price":"500",
+		"Level":"2",
+		"Name":"Wildwise",
+		"Description":"The soft purple fungus called wildwise attaches itself to your vocal cords and extends fine filaments into portions of your brain. It allows you to communicate in a general sense with animals and with magical beasts with an Intelligence score of 1 or 2. You can attempt Diplomacy checks to influence such creatures as well as understand in very vague terms information they try to convey to you. The information they give you usually consists of simple concepts such as 'danger,' 'food,' or 'that way.' "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Varies ",
+		"Price":"Varies",
+		"Level":"3",
+		"Name":"Adaptive biochains",
+		"Description":"You can duplicate the effects of cybernetics with biotech by using adaptive biochains—microscopic cells that can reform themselves into replacements for technology within the body of a living host. This replicates the effects of any cybernetic augmentation, but it costs an additional 10% due to the price of the biochains. Adaptive biochains can also be used to replace any existing cybernetic with a biotech version of the same device; doing so has the same price and time as introducing a new adaptive biochain. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"All feet ",
+		"Price":"1,200",
+		"Level":"3",
+		"Name":"Climbing suckers",
+		"Description":"The soles of your feet become covered in fleshy slats you can open and close, providing you a climb speed of 20 feet (see page 259). You don't need to attempt Athletics checks to traverse a vertical or horizontal surface (even upside down). You don't benefit from climbing suckers unless you're barefoot or wearing custom clothing, and you can not be wearing more than light armor. Climbing suckers integrate into your natural feet and do not require you to replace your feet and legs. Climbing suckers can be installed into the feet of prosthetic legs. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Ears ",
+		"Price":"2,150",
+		"Level":"4",
+		"Name":"Tympanal cluster",
+		"Description":"A tympanal cluster consists of multiple small membranes of various sizes that can detect a wide range of sounds. They give you a +2 circumstance bonus to hearing-based Perception checks. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Skin ",
+		"Price":"4,050",
+		"Level":"6",
+		"Name":"Skin of the chameleon",
+		"Description":"This biotech modification replaces pigmentation cells in your skin. You can alter your skin to mimic the terrain or lighting conditions around you, giving you a +3 circumstance bonus to Stealth checks. You must be wearing custom clothing and no more than light armor to benefit from this biotech. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Throat ",
+		"Price":"19,125",
+		"Level":"10",
+		"Name":"Dragon gland, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Wyrmling</td><td>2</td><td>755</td></tr><tr><td>Standard</td><td>10</td><td>19,125</td></tr><tr><td>Wyrm</td><td>16</td><td>181,500</td></tr></table>You implant an arcanicus gland modified to function for a creature of your race at the back of your throat. You can trigger this gland as a standard action to expel a breath weapon in a 15- foot cone as an extraordinary ability. Choose the damage type when the organ is biocrafted, picking from the following list: acid, cold, electricity, or fire. You are not harmed by using your own breath weapon. Once you've used your breath weapon, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. A wyrmling dragon gland deals 3d6 damage, a standard gland deals 9d6 damage, and a wyrm gland deals 18d6 damage. Targets in the area can attempt a Reflex save (DC = 10 + half your level + your Constitution modifier) to take only half damage. "
+	},
+	{
+		"Type":"Biotech",
+		"Body Parts":"Throat ",
+		"Price":"181,500",
+		"Level":"16",
+		"Name":"Dragon gland, wyrm",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Wyrmling</td><td>2</td><td>755</td></tr><tr><td>Standard</td><td>10</td><td>19,125</td></tr><tr><td>Wyrm</td><td>16</td><td>181,500</td></tr></table>You implant an arcanicus gland modified to function for a creature of your race at the back of your throat. You can trigger this gland as a standard action to expel a breath weapon in a 15- foot cone as an extraordinary ability. Choose the damage type when the organ is biocrafted, picking from the following list: acid, cold, electricity, or fire. You are not harmed by using your own breath weapon. Once you've used your breath weapon, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. A wyrmling dragon gland deals 3d6 damage, a standard gland deals 9d6 damage, and a wyrm gland deals 18d6 damage. Targets in the area can attempt a Reflex save (DC = 10 + half your level + your Constitution modifier) to take only half damage. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eye ",
+		"Price":"1,530",
+		"Level":"3",
+		"Name":"Optical laser, azimuth",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Azimuth</td><td>3</td><td>1,530</td><td>1d6F</td><td>Burn1d6</td></tr><tr><td>Corona</td><td>7</td><td>7,140</td><td>2d6F</td><td>Burn1d6</td></tr><tr><td>Aphelion</td><td>11</td><td>26,520</td><td>3d6F</td><td>Burn2d6</td></tr><tr><td>Parallax</td><td>15</td><td>122,400</td><td>4d6F</td><td>Burn2d6</td></tr><tr><td>Zenith</td><td>19</td><td>612,000</td><td>5d6F</td><td>Burn3d6</td></tr></table>This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property (see page 29) and deals damage based on its model. An optical laser has a 50-foot range increment, and it can't be disarmed. Once you've used the optical laser for a single attack, its tiny battery is depleted; you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Spinal column ",
+		"Price":"1,260",
+		"Level":"3",
+		"Name":"Spinal struts, minimal",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Minimal</td><td>3</td><td>1,260</td></tr><tr><td>Standard</td><td>6</td><td>4,030</td></tr><tr><td>Reinforced</td><td>10</td><td>17,640</td></tr></table>Your spinal cartilage is replaced with synthetic cushions and your vertebrae are reinforced. If you have a minimal spinal strut augmentation, treat your Strength as 1 higher for the purpose of determining your bulk limit. If you have standard or reinforced spinal struts, treat your Strength as 2 or 3 higher, respectively, for the purpose of determining your bulk limit. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"All feet ",
+		"Price":"1,850",
+		"Level":"4",
+		"Name":"Fortified feet",
+		"Description":"Built from a matrix of adamantine alloy prisms and regenerative ligaments, these feet are able to withstand significant punishment. You gain damage resitance 5 to all and energy resistance 5 against ground-based hazards that would harm you as you walk over them, such as electrified floors created by a computer's shock grid defensive countermeasure, spikes, or puddles of acid. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Heart ",
+		"Price":"2,080",
+		"Level":"4",
+		"Name":"Threshold buffer, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resolve</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>4</td><td>2,080</td><td>1</td></tr><tr><td>Mk2</td><td>9</td><td>13,500</td><td>2</td></tr><tr><td>Mk3</td><td>15</td><td>110,000</td><td>3</td></tr></table>This system monitors your vitals, injecting a burst of synthetic adrenaline into your bloodstream when your body is on the brink of death. You gain a number of additional Resolve Points (depending on the model of your threshold buffer) that you can use or lose only when you are dying or stable, such as to avoid death, to stabilize, or to stay in the fight (Core Rulebook 250). These additional Resolve Points don't count for the purpose of calculating how many Resolve Points you must spend to stabilize, and any unspent additional Resolve Points are lost the next time you take an 8-hour rest to regain your normal Resolve Points. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Arm and hand ",
+		"Price":"2,120",
+		"Level":"4",
+		"Name":"Weaponized prosthesis, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Slots</th></tr><tr><td>Mk1</td><td>4</td><td>2,120</td><td>1</td></tr><tr><td>Mk2</td><td>8</td><td>9,250</td><td>2</td></tr></table>This prosthesis functions as a standard prosthetic arm (Core Rulebook 210) but is lighter and hollowed in places to accommodate one weapon with the integrated weapon special property (see page 29). A mk 1 weaponized prosthesis can accommodate one integrated weapon that takes up no more than one armor slot, whereas a mk 2 model can accommodate one integrated weapon that takes up no more than two armor slots. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Hand ",
+		"Price":"3,300",
+		"Level":"5",
+		"Name":"Force matrix, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,300</td><td>3</td></tr><tr><td>Mk2</td><td>11</td><td>26,750</td><td>6</td></tr><tr><td>Mk3</td><td>17</td><td>278,100</td><td>10</td></tr></table>Your hand contains a matrix of energy-sensitive fibers that can shape a force field armor upgrade (Core Rulebook 206) installed into armor you are wearing, focusing its strength in a particular direction. As a move action while your force field is active, you can designate an opponent you can see. Until the beginning of your next turn, your force field's fast healing is halved, but against the designated opponent's attacks, you increase your force field's fortification percentage chance by 10% (maximum 100%) and gain damage resistance to all based on the model of your force matrix. This benefit ends if you lose all the temporary Hit Points provided by your force field. The hand bearing the force matrix augmentation must be free to activate its abilities. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Ears ",
+		"Price":"4,450",
+		"Level":"6",
+		"Name":"Echolocators, reactive",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Reactive</td><td>6</td><td>4,450</td></tr><tr><td>Active</td><td>9</td><td>13,700</td></tr><tr><td>Enhanced</td><td>13</td><td>50,900</td></tr></table>As a swift action, you can fan out these replacement ears to triple their surface area, giving you blindsense (sound) with a range of 30 feet. Active and enhanced echolocators occupy both the ears and throat system, also allowing you to spend a move action to produce, receive, and process a series of subsonic chirps to gain the benefits of blindsight (sound) until the beginning of your next turn. The blindsight from active echolocators has a range of 30 feet, while the blindsight from enhanced echolocators has a range of 60 feet. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Spinal column ",
+		"Price":"4,030",
+		"Level":"6",
+		"Name":"Spinal struts, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Minimal</td><td>3</td><td>1,260</td></tr><tr><td>Standard</td><td>6</td><td>4,030</td></tr><tr><td>Reinforced</td><td>10</td><td>17,640</td></tr></table>Your spinal cartilage is replaced with synthetic cushions and your vertebrae are reinforced. If you have a minimal spinal strut augmentation, treat your Strength as 1 higher for the purpose of determining your bulk limit. If you have standard or reinforced spinal struts, treat your Strength as 2 or 3 higher, respectively, for the purpose of determining your bulk limit. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"All legs and feet ",
+		"Price":"4,295",
+		"Level":"6",
+		"Name":"X-legs, basic",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Basic</td><td>6</td><td>4,295</td></tr><tr><td>Climbing</td><td>12</td><td>35,600</td></tr></table>You enhance your stability by replacing your legs with a quartet of spiderlike limbs. Basic X-legs grant you a +4 circumstance bonus to your KAC against bull rush, reposition, and trip combat maneuvers. You also gain a +2 circumstance bonus to Reflex saving throws against effects that would knock you prone. Climbing X-legs include a gravitic-attraction device at the tip of each leg, allowing you to walk across walls and ceilings without using your hands; this grants you a climb speed of 25 feet. An X-legs system uses similar connection points as standard prosthetic legs (Core Rulebook 210), allowing you to detach your X-legs and attach a pair of prosthetic legs (which you must buy separately) in only 10 minutes, for situations where X-legs would attract unwanted attention. The magitech augmentations from Table 1–21: Magitech are described below. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eye ",
+		"Price":"7,140",
+		"Level":"7",
+		"Name":"Optical laser, corona",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Azimuth</td><td>3</td><td>1,530</td><td>1d6F</td><td>Burn1d6</td></tr><tr><td>Corona</td><td>7</td><td>7,140</td><td>2d6F</td><td>Burn1d6</td></tr><tr><td>Aphelion</td><td>11</td><td>26,520</td><td>3d6F</td><td>Burn2d6</td></tr><tr><td>Parallax</td><td>15</td><td>122,400</td><td>4d6F</td><td>Burn2d6</td></tr><tr><td>Zenith</td><td>19</td><td>612,000</td><td>5d6F</td><td>Burn3d6</td></tr></table>This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property (see page 29) and deals damage based on its model. An optical laser has a 50-foot range increment, and it can't be disarmed. Once you've used the optical laser for a single attack, its tiny battery is depleted; you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Arm and hand ",
+		"Price":"8,550",
+		"Level":"8",
+		"Name":"Recoil stabilizer",
+		"Description":"This prosthesis functions as a standard prosthetic arm (Core Rulebook 210) but also boasts gas-venting systems and internal gyroscopes that provide you additional stability when firing large weapons. When you use the automatic weapon special property of a ranged weapon wielded in the augmented hand, you can activate the arm's stabilizers (this requires no action), allowing you to score critical hits while making attacks in automatic mode. Roll damage separately against targets you score critical hits against. Once you have used the recoil stabilizer, you can't use it again until you've rested for 10 minutes to regain Stamina Points. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Arm and hand ",
+		"Price":"9,250",
+		"Level":"8",
+		"Name":"Weaponized prosthesis, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Slots</th></tr><tr><td>Mk1</td><td>4</td><td>2,120</td><td>1</td></tr><tr><td>Mk2</td><td>8</td><td>9,250</td><td>2</td></tr></table>This prosthesis functions as a standard prosthetic arm (Core Rulebook 210) but is lighter and hollowed in places to accommodate one weapon with the integrated weapon special property (see page 29). A mk 1 weaponized prosthesis can accommodate one integrated weapon that takes up no more than one armor slot, whereas a mk 2 model can accommodate one integrated weapon that takes up no more than two armor slots. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Ears and throat ",
+		"Price":"13,700",
+		"Level":"9",
+		"Name":"Echolocators, active",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Reactive</td><td>6</td><td>4,450</td></tr><tr><td>Active</td><td>9</td><td>13,700</td></tr><tr><td>Enhanced</td><td>13</td><td>50,900</td></tr></table>As a swift action, you can fan out these replacement ears to triple their surface area, giving you blindsense (sound) with a range of 30 feet. Active and enhanced echolocators occupy both the ears and throat system, also allowing you to spend a move action to produce, receive, and process a series of subsonic chirps to gain the benefits of blindsight (sound) until the beginning of your next turn. The blindsight from active echolocators has a range of 30 feet, while the blindsight from enhanced echolocators has a range of 60 feet. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Heart ",
+		"Price":"13,500",
+		"Level":"9",
+		"Name":"Threshold buffer, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resolve</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>4</td><td>2,080</td><td>1</td></tr><tr><td>Mk2</td><td>9</td><td>13,500</td><td>2</td></tr><tr><td>Mk3</td><td>15</td><td>110,000</td><td>3</td></tr></table>This system monitors your vitals, injecting a burst of synthetic adrenaline into your bloodstream when your body is on the brink of death. You gain a number of additional Resolve Points (depending on the model of your threshold buffer) that you can use or lose only when you are dying or stable, such as to avoid death, to stabilize, or to stay in the fight (Core Rulebook 250). These additional Resolve Points don't count for the purpose of calculating how many Resolve Points you must spend to stabilize, and any unspent additional Resolve Points are lost the next time you take an 8-hour rest to regain your normal Resolve Points. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Spinal column ",
+		"Price":"17,640",
+		"Level":"10",
+		"Name":"Spinal struts, reinforced",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Minimal</td><td>3</td><td>1,260</td></tr><tr><td>Standard</td><td>6</td><td>4,030</td></tr><tr><td>Reinforced</td><td>10</td><td>17,640</td></tr></table>Your spinal cartilage is replaced with synthetic cushions and your vertebrae are reinforced. If you have a minimal spinal strut augmentation, treat your Strength as 1 higher for the purpose of determining your bulk limit. If you have standard or reinforced spinal struts, treat your Strength as 2 or 3 higher, respectively, for the purpose of determining your bulk limit. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Hand ",
+		"Price":"26,750",
+		"Level":"11",
+		"Name":"Force matrix, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,300</td><td>3</td></tr><tr><td>Mk2</td><td>11</td><td>26,750</td><td>6</td></tr><tr><td>Mk3</td><td>17</td><td>278,100</td><td>10</td></tr></table>Your hand contains a matrix of energy-sensitive fibers that can shape a force field armor upgrade (Core Rulebook 206) installed into armor you are wearing, focusing its strength in a particular direction. As a move action while your force field is active, you can designate an opponent you can see. Until the beginning of your next turn, your force field's fast healing is halved, but against the designated opponent's attacks, you increase your force field's fortification percentage chance by 10% (maximum 100%) and gain damage resistance to all based on the model of your force matrix. This benefit ends if you lose all the temporary Hit Points provided by your force field. The hand bearing the force matrix augmentation must be free to activate its abilities. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eye ",
+		"Price":"26,520",
+		"Level":"11",
+		"Name":"Optical laser, aphelion",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Azimuth</td><td>3</td><td>1,530</td><td>1d6F</td><td>Burn1d6</td></tr><tr><td>Corona</td><td>7</td><td>7,140</td><td>2d6F</td><td>Burn1d6</td></tr><tr><td>Aphelion</td><td>11</td><td>26,520</td><td>3d6F</td><td>Burn2d6</td></tr><tr><td>Parallax</td><td>15</td><td>122,400</td><td>4d6F</td><td>Burn2d6</td></tr><tr><td>Zenith</td><td>19</td><td>612,000</td><td>5d6F</td><td>Burn3d6</td></tr></table>This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property (see page 29) and deals damage based on its model. An optical laser has a 50-foot range increment, and it can't be disarmed. Once you've used the optical laser for a single attack, its tiny battery is depleted; you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"All legs and feet ",
+		"Price":"35,600",
+		"Level":"12",
+		"Name":"X-legs, climbing",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Basic</td><td>6</td><td>4,295</td></tr><tr><td>Climbing</td><td>12</td><td>35,600</td></tr></table>You enhance your stability by replacing your legs with a quartet of spiderlike limbs. Basic X-legs grant you a +4 circumstance bonus to your KAC against bull rush, reposition, and trip combat maneuvers. You also gain a +2 circumstance bonus to Reflex saving throws against effects that would knock you prone. Climbing X-legs include a gravitic-attraction device at the tip of each leg, allowing you to walk across walls and ceilings without using your hands; this grants you a climb speed of 25 feet. An X-legs system uses similar connection points as standard prosthetic legs (Core Rulebook 210), allowing you to detach your X-legs and attach a pair of prosthetic legs (which you must buy separately) in only 10 minutes, for situations where X-legs would attract unwanted attention. The magitech augmentations from Table 1–21: Magitech are described below. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Ears and throat ",
+		"Price":"50,900",
+		"Level":"13",
+		"Name":"Echolocators, enhanced",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Reactive</td><td>6</td><td>4,450</td></tr><tr><td>Active</td><td>9</td><td>13,700</td></tr><tr><td>Enhanced</td><td>13</td><td>50,900</td></tr></table>As a swift action, you can fan out these replacement ears to triple their surface area, giving you blindsense (sound) with a range of 30 feet. Active and enhanced echolocators occupy both the ears and throat system, also allowing you to spend a move action to produce, receive, and process a series of subsonic chirps to gain the benefits of blindsight (sound) until the beginning of your next turn. The blindsight from active echolocators has a range of 30 feet, while the blindsight from enhanced echolocators has a range of 60 feet. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eye ",
+		"Price":"122,400",
+		"Level":"15",
+		"Name":"Optical laser, parallax",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Azimuth</td><td>3</td><td>1,530</td><td>1d6F</td><td>Burn1d6</td></tr><tr><td>Corona</td><td>7</td><td>7,140</td><td>2d6F</td><td>Burn1d6</td></tr><tr><td>Aphelion</td><td>11</td><td>26,520</td><td>3d6F</td><td>Burn2d6</td></tr><tr><td>Parallax</td><td>15</td><td>122,400</td><td>4d6F</td><td>Burn2d6</td></tr><tr><td>Zenith</td><td>19</td><td>612,000</td><td>5d6F</td><td>Burn3d6</td></tr></table>This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property (see page 29) and deals damage based on its model. An optical laser has a 50-foot range increment, and it can't be disarmed. Once you've used the optical laser for a single attack, its tiny battery is depleted; you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Heart ",
+		"Price":"110,000",
+		"Level":"15",
+		"Name":"Threshold buffer, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Resolve</th><th class=interior>Points</th></tr><tr><td>Mk1</td><td>4</td><td>2,080</td><td>1</td></tr><tr><td>Mk2</td><td>9</td><td>13,500</td><td>2</td></tr><tr><td>Mk3</td><td>15</td><td>110,000</td><td>3</td></tr></table>This system monitors your vitals, injecting a burst of synthetic adrenaline into your bloodstream when your body is on the brink of death. You gain a number of additional Resolve Points (depending on the model of your threshold buffer) that you can use or lose only when you are dying or stable, such as to avoid death, to stabilize, or to stay in the fight (Core Rulebook 250). These additional Resolve Points don't count for the purpose of calculating how many Resolve Points you must spend to stabilize, and any unspent additional Resolve Points are lost the next time you take an 8-hour rest to regain your normal Resolve Points. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Hand ",
+		"Price":"278,100",
+		"Level":"17",
+		"Name":"Force matrix, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,300</td><td>3</td></tr><tr><td>Mk2</td><td>11</td><td>26,750</td><td>6</td></tr><tr><td>Mk3</td><td>17</td><td>278,100</td><td>10</td></tr></table>Your hand contains a matrix of energy-sensitive fibers that can shape a force field armor upgrade (Core Rulebook 206) installed into armor you are wearing, focusing its strength in a particular direction. As a move action while your force field is active, you can designate an opponent you can see. Until the beginning of your next turn, your force field's fast healing is halved, but against the designated opponent's attacks, you increase your force field's fortification percentage chance by 10% (maximum 100%) and gain damage resistance to all based on the model of your force matrix. This benefit ends if you lose all the temporary Hit Points provided by your force field. The hand bearing the force matrix augmentation must be free to activate its abilities. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eye ",
+		"Price":"612,000",
+		"Level":"19",
+		"Name":"Optical laser, zenith",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Damage</th><th class=interior>Critical</th></tr><tr><td>Azimuth</td><td>3</td><td>1,530</td><td>1d6F</td><td>Burn1d6</td></tr><tr><td>Corona</td><td>7</td><td>7,140</td><td>2d6F</td><td>Burn1d6</td></tr><tr><td>Aphelion</td><td>11</td><td>26,520</td><td>3d6F</td><td>Burn2d6</td></tr><tr><td>Parallax</td><td>15</td><td>122,400</td><td>4d6F</td><td>Burn2d6</td></tr><tr><td>Zenith</td><td>19</td><td>612,000</td><td>5d6F</td><td>Burn3d6</td></tr></table>This system replaces one of your eyes with a compact laser weapon that functions as a small arm with the integrated weapon special property (see page 29) and deals damage based on its model. An optical laser has a 50-foot range increment, and it can't be disarmed. Once you've used the optical laser for a single attack, its tiny battery is depleted; you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Arm or leg ",
+		"Price":"150",
+		"Level":"1",
+		"Name":"Hideaway limb, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>1</td><td>150</td></tr><tr><td>Quickdraw</td><td>5</td><td>3,050</td></tr></table>This compartment is hidden inside one of your limbs. You can conceal items inside and protect them with a simple passcode. The compartment can hold items of negligible bulk and items of light bulk that are either relatively small or can be folded or contracted to fit. A hideaway in a leg (in a human) can hold more than one in an arm, and the creature's size also adjusts the capacity. The GM decides what can fit. When the compartment is closed, the seam in your flesh is difficult to detect. You gain a +2 bonus to Sleight of Hand checks to conceal items in a hideaway limb. Though this compartment can usually foil a simple pat down, most security checkpoints include a scan that can detect such devices. Retrieving an item from a hideaway limb is a move action instead of a standard action. This type of augmentation is for Small and Medium creatures only. Hideaway limbs for creatures larger than Medium typically cost more but can hold items of greater size or bulk. If you have a quickdraw hideaway limb, the compartment is integrated with a specific weapon. This allows you to draw the weapon as a swift action or as part of making an attack or full attack (similar to using the Quick Draw feat). A quickdraw hideaway limb works only if the limb is one you can normally aim and attack with, typically an arm. You can't, for example, put a quickdraw hideaway limb in your leg and have the weapon spring into your hand. You can have a mount installed in a quickdraw limb that holds the weapon in place while you shoot. You still can't use your hand for other purposes, but you gain a +2 bonus to KAC against disarm attempts. The mount can't hold a weapon that requires more than one hand to operate. You can't hide other objects inside a quickdraw hideaway limb—there's room for only the weapon. Nothing stored in a hideaway limb is considered part of the cybernetic, and the stored item does not gain the cybernetic's immunity to attacks affecting technological devices. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Arm and hand, or leg and foot ",
+		"Price":"100",
+		"Level":"1",
+		"Name":"Prosthetic limb, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>1</td><td>100</td></tr><tr><td>Storage</td><td>3</td><td>1,450</td></tr></table>This prosthesis replaces a missing limb. It restores functionality, but it is no more durable than and doesn't otherwise function differently than a normal limb for your species. A prosthetic limb can replace one you've lost, or you can have a limb removed in order to replace it with a prosthetic. A storage prosthetic limb has a built-in concealed storage compartment, which functions as a hideaway limb (see above). "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Lungs ",
+		"Price":"250",
+		"Level":"1",
+		"Name":"Respiration compounder",
+		"Description":"A respiration compounder consists of a series of modules that attach to your lungs, letting you survive longer without having to breathe. Treat your Constitution score as though it were doubled for the purpose of how long you can hold your breath. You also gain a +4 bonus to Constitution checks to continue holding your breath. This doesn't protect you from other dangers of an airless environment. The compounder also filters your air, granting a +2 bonus to saving throws against inhaled poisons or other airborne toxins. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Throat ",
+		"Price":"125",
+		"Level":"1",
+		"Name":"Vocal modulator",
+		"Description":"A vocal modulator includes a series of miniature actuators built specifically to reshape your voice box, along with miniature hyper-resonant chambers that dynamically close or open. This allows you to change the pitch, timbre, and tone of your voice. You can more easily imitate accents or pronounce alien languages. When using Disguise to change your appearance, you gain a +2 circumstance bonus if the change in your voice also helps your disguise (at the GM's discretion). "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Brain ",
+		"Price":"625",
+		"Level":"2",
+		"Name":"Datajack, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>2</td><td>625</td></tr><tr><td>High_density</td><td>5</td><td>2,600</td></tr><tr><td>Accelerated</td><td>8</td><td>8,525</td></tr></table>This cybernetic includes a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don't allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check). Advanced datajacks make it easier to process and send information through the datajack. With a high-density datajack, you gain a +1 circumstance bonus to Computer checks when accessing a system via your datajack. An accelerated datajack instead provides a +2 bonus. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eyes ",
+		"Price":"1,750",
+		"Level":"3",
+		"Name":"Darkvision capacitors, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>3</td><td>1,750</td></tr><tr><td>Advanced</td><td>8</td><td>9,000</td></tr><tr><td>Long_range</td><td>13</td><td>48,950</td></tr></table>These replacement eyes allow you to see in total darkness, giving you darkvision with a range of 60 feet. They operate by sending out low-powered ultraviolet lasers that are then detected by receptors within the capacitors. When your capacitors are in operation, their lasers can be detected by creatures that have darkvision capacitors or can otherwise see ultraviolet light. Advanced darkvision capacitors have the benefits of a widespectrum ocular implant (see page 211). Long-range darkvision capacitors function like advanced capacitors but provide a darkvision range of 120 feet. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Arm and hand, or leg and foot ",
+		"Price":"1,450",
+		"Level":"3",
+		"Name":"Prosthetic limb, storage",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>1</td><td>100</td></tr><tr><td>Storage</td><td>3</td><td>1,450</td></tr></table>This prosthesis replaces a missing limb. It restores functionality, but it is no more durable than and doesn't otherwise function differently than a normal limb for your species. A prosthetic limb can replace one you've lost, or you can have a limb removed in order to replace it with a prosthetic. A storage prosthetic limb has a built-in concealed storage compartment, which functions as a hideaway limb (see above). "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eyes ",
+		"Price":"1,350",
+		"Level":"3",
+		"Name":"Retinal reflectors",
+		"Description":"These sheets of reflective material can be implanted behind the retina, granting you low-light vision and a +1 enhancement bonus to vision-based Perception checks.You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"All legs ",
+		"Price":"1,900",
+		"Level":"4",
+		"Name":"Speed suspension, minimal",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Minimal</td><td>4</td><td>1,900</td></tr><tr><td>Standard</td><td>8</td><td>8,800</td></tr><tr><td>Complete</td><td>12</td><td>32,900</td></tr></table>You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A minimal speed suspension replaces only a few parts, increasing your land speed by 10 feet. A standard suspension is more invasive and increases your land speed by 20 feet. Replacing all your leg joints and tendons with a complete speed suspension increases your land speed by 30 feet. You can install a speed suspension into prosthetic legs. Extra speed from these augmentations is treated as an enhancement bonus. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Brain ",
+		"Price":"2,600",
+		"Level":"5",
+		"Name":"Datajack, high-density",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>2</td><td>625</td></tr><tr><td>High_density</td><td>5</td><td>2,600</td></tr><tr><td>Accelerated</td><td>8</td><td>8,525</td></tr></table>This cybernetic includes a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don't allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check). Advanced datajacks make it easier to process and send information through the datajack. With a high-density datajack, you gain a +1 circumstance bonus to Computer checks when accessing a system via your datajack. An accelerated datajack instead provides a +2 bonus. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Skin ",
+		"Price":"3,025",
+		"Level":"5",
+		"Name":"Dermal plating, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,025</td><td>1</td></tr><tr><td>Mk2</td><td>7</td><td>6,950</td><td>2</td></tr><tr><td>Mk3</td><td>9</td><td>17,975</td><td>3</td></tr><tr><td>Mk4</td><td>12</td><td>48,850</td><td>4</td></tr><tr><td>Mk5</td><td>14</td><td>105,000</td><td>5</td></tr><tr><td>Mk6</td><td>16</td><td>163,500</td><td>6</td></tr><tr><td>Mk7</td><td>19</td><td>542,000</td><td>7</td></tr></table>You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Arm or leg ",
+		"Price":"3,050",
+		"Level":"5",
+		"Name":"Hideaway limb, quickdraw",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>1</td><td>150</td></tr><tr><td>Quickdraw</td><td>5</td><td>3,050</td></tr></table>This compartment is hidden inside one of your limbs. You can conceal items inside and protect them with a simple passcode. The compartment can hold items of negligible bulk and items of light bulk that are either relatively small or can be folded or contracted to fit. A hideaway in a leg (in a human) can hold more than one in an arm, and the creature's size also adjusts the capacity. The GM decides what can fit. When the compartment is closed, the seam in your flesh is difficult to detect. You gain a +2 bonus to Sleight of Hand checks to conceal items in a hideaway limb. Though this compartment can usually foil a simple pat down, most security checkpoints include a scan that can detect such devices. Retrieving an item from a hideaway limb is a move action instead of a standard action. This type of augmentation is for Small and Medium creatures only. Hideaway limbs for creatures larger than Medium typically cost more but can hold items of greater size or bulk. If you have a quickdraw hideaway limb, the compartment is integrated with a specific weapon. This allows you to draw the weapon as a swift action or as part of making an attack or full attack (similar to using the Quick Draw feat). A quickdraw hideaway limb works only if the limb is one you can normally aim and attack with, typically an arm. You can't, for example, put a quickdraw hideaway limb in your leg and have the weapon spring into your hand. You can have a mount installed in a quickdraw limb that holds the weapon in place while you shoot. You still can't use your hand for other purposes, but you gain a +2 bonus to KAC against disarm attempts. The mount can't hold a weapon that requires more than one hand to operate. You can't hide other objects inside a quickdraw hideaway limb—there's room for only the weapon. Nothing stored in a hideaway limb is considered part of the cybernetic, and the stored item does not gain the cybernetic's immunity to attacks affecting technological devices. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eyes ",
+		"Price":"2,825",
+		"Level":"5",
+		"Name":"Wide-spectrum ocular implant",
+		"Description":"These cybernetic spheres replace your eyes entirely. You gain lowlight vision, as well as the ability to see infrared and ultraviolet light. These enhancements grant you a +2 bonus to vision-based Perception checks and allow you to notice some things people who can see only the red-violet light spectrum can't, including the lasers from darkvision capacitors (see page 209). This doesn't grant you darkvision, but in darkness you can see significant sources of heat due to your infrared vision. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Heart ",
+		"Price":"3,850",
+		"Level":"6",
+		"Name":"Cardiac accelerator",
+		"Description":"This implant plugs directly into your heart and can be triggered to overclock the performance of your heart and circulatory system. When you run, charge, or take a move action to move, you can spend 1 Resolve Point to increase your speed (in the relevant mode of movement) by 20 feet for that action. This extra movement is treated as an enhancement bonus. Alternatively, you can spend 1 Resolve Point as a reaction when you attempt a Reflex saving throw to gain a +1 enhancement bonus to your roll. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Skin ",
+		"Price":"6,950",
+		"Level":"7",
+		"Name":"Dermal plating, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,025</td><td>1</td></tr><tr><td>Mk2</td><td>7</td><td>6,950</td><td>2</td></tr><tr><td>Mk3</td><td>9</td><td>17,975</td><td>3</td></tr><tr><td>Mk4</td><td>12</td><td>48,850</td><td>4</td></tr><tr><td>Mk5</td><td>14</td><td>105,000</td><td>5</td></tr><tr><td>Mk6</td><td>16</td><td>163,500</td><td>6</td></tr><tr><td>Mk7</td><td>19</td><td>542,000</td><td>7</td></tr></table>You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eyes ",
+		"Price":"9,000",
+		"Level":"8",
+		"Name":"Darkvision capacitors, advanced",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>3</td><td>1,750</td></tr><tr><td>Advanced</td><td>8</td><td>9,000</td></tr><tr><td>Long_range</td><td>13</td><td>48,950</td></tr></table>These replacement eyes allow you to see in total darkness, giving you darkvision with a range of 60 feet. They operate by sending out low-powered ultraviolet lasers that are then detected by receptors within the capacitors. When your capacitors are in operation, their lasers can be detected by creatures that have darkvision capacitors or can otherwise see ultraviolet light. Advanced darkvision capacitors have the benefits of a widespectrum ocular implant (see page 211). Long-range darkvision capacitors function like advanced capacitors but provide a darkvision range of 120 feet. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Brain ",
+		"Price":"8,525",
+		"Level":"8",
+		"Name":"Datajack, accelerated",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>2</td><td>625</td></tr><tr><td>High_density</td><td>5</td><td>2,600</td></tr><tr><td>Accelerated</td><td>8</td><td>8,525</td></tr></table>This cybernetic includes a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don't allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check). Advanced datajacks make it easier to process and send information through the datajack. With a high-density datajack, you gain a +1 circumstance bonus to Computer checks when accessing a system via your datajack. An accelerated datajack instead provides a +2 bonus. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"All legs ",
+		"Price":"8,800",
+		"Level":"8",
+		"Name":"Speed suspension, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Minimal</td><td>4</td><td>1,900</td></tr><tr><td>Standard</td><td>8</td><td>8,800</td></tr><tr><td>Complete</td><td>12</td><td>32,900</td></tr></table>You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A minimal speed suspension replaces only a few parts, increasing your land speed by 10 feet. A standard suspension is more invasive and increases your land speed by 20 feet. Replacing all your leg joints and tendons with a complete speed suspension increases your land speed by 30 feet. You can install a speed suspension into prosthetic legs. Extra speed from these augmentations is treated as an enhancement bonus. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Skin ",
+		"Price":"17,975",
+		"Level":"9",
+		"Name":"Dermal plating, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,025</td><td>1</td></tr><tr><td>Mk2</td><td>7</td><td>6,950</td><td>2</td></tr><tr><td>Mk3</td><td>9</td><td>17,975</td><td>3</td></tr><tr><td>Mk4</td><td>12</td><td>48,850</td><td>4</td></tr><tr><td>Mk5</td><td>14</td><td>105,000</td><td>5</td></tr><tr><td>Mk6</td><td>16</td><td>163,500</td><td>6</td></tr><tr><td>Mk7</td><td>19</td><td>542,000</td><td>7</td></tr></table>You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Spinal column ",
+		"Price":"24,750",
+		"Level":"11",
+		"Name":"Cybernetic arm, single",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Single</td><td>11</td><td>24,750</td></tr><tr><td>Dual</td><td>14</td><td>70,150</td></tr></table>Made of ultralight materials, this fully cybernetic arm fuses to your spinal column, exoskeleton, or equivalent body structure and functions as a full arm. You can hold an additional hand's worth of equipment. This lets you have more items at the ready, but it doesn't increase the number of attacks you can make in combat. You must have a Strength score of 12 to use a cybernetic arm effectively Dual cybernetic arms consist of a pair of arms, one on each side of your body, and let you hold two additional hands' worth of equipment. You need a Strength score of 14 to use dual cybernetic arms effectively. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Skin ",
+		"Price":"48,850",
+		"Level":"12",
+		"Name":"Dermal plating, mk 4",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,025</td><td>1</td></tr><tr><td>Mk2</td><td>7</td><td>6,950</td><td>2</td></tr><tr><td>Mk3</td><td>9</td><td>17,975</td><td>3</td></tr><tr><td>Mk4</td><td>12</td><td>48,850</td><td>4</td></tr><tr><td>Mk5</td><td>14</td><td>105,000</td><td>5</td></tr><tr><td>Mk6</td><td>16</td><td>163,500</td><td>6</td></tr><tr><td>Mk7</td><td>19</td><td>542,000</td><td>7</td></tr></table>You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"All legs ",
+		"Price":"32,900",
+		"Level":"12",
+		"Name":"Speed suspension, complete",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Minimal</td><td>4</td><td>1,900</td></tr><tr><td>Standard</td><td>8</td><td>8,800</td></tr><tr><td>Complete</td><td>12</td><td>32,900</td></tr></table>You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A minimal speed suspension replaces only a few parts, increasing your land speed by 10 feet. A standard suspension is more invasive and increases your land speed by 20 feet. Replacing all your leg joints and tendons with a complete speed suspension increases your land speed by 30 feet. You can install a speed suspension into prosthetic legs. Extra speed from these augmentations is treated as an enhancement bonus. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Eyes ",
+		"Price":"48,950",
+		"Level":"13",
+		"Name":"Darkvision capacitors, long-range",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>3</td><td>1,750</td></tr><tr><td>Advanced</td><td>8</td><td>9,000</td></tr><tr><td>Long_range</td><td>13</td><td>48,950</td></tr></table>These replacement eyes allow you to see in total darkness, giving you darkvision with a range of 60 feet. They operate by sending out low-powered ultraviolet lasers that are then detected by receptors within the capacitors. When your capacitors are in operation, their lasers can be detected by creatures that have darkvision capacitors or can otherwise see ultraviolet light. Advanced darkvision capacitors have the benefits of a widespectrum ocular implant (see page 211). Long-range darkvision capacitors function like advanced capacitors but provide a darkvision range of 120 feet. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Spinal column ",
+		"Price":"70,150",
+		"Level":"14",
+		"Name":"Cybernetic arm, dual",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Single</td><td>11</td><td>24,750</td></tr><tr><td>Dual</td><td>14</td><td>70,150</td></tr></table>Made of ultralight materials, this fully cybernetic arm fuses to your spinal column, exoskeleton, or equivalent body structure and functions as a full arm. You can hold an additional hand's worth of equipment. This lets you have more items at the ready, but it doesn't increase the number of attacks you can make in combat. You must have a Strength score of 12 to use a cybernetic arm effectively Dual cybernetic arms consist of a pair of arms, one on each side of your body, and let you hold two additional hands' worth of equipment. You need a Strength score of 14 to use dual cybernetic arms effectively. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Skin ",
+		"Price":"105,000",
+		"Level":"14",
+		"Name":"Dermal plating, mk 5",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,025</td><td>1</td></tr><tr><td>Mk2</td><td>7</td><td>6,950</td><td>2</td></tr><tr><td>Mk3</td><td>9</td><td>17,975</td><td>3</td></tr><tr><td>Mk4</td><td>12</td><td>48,850</td><td>4</td></tr><tr><td>Mk5</td><td>14</td><td>105,000</td><td>5</td></tr><tr><td>Mk6</td><td>16</td><td>163,500</td><td>6</td></tr><tr><td>Mk7</td><td>19</td><td>542,000</td><td>7</td></tr></table>You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Hand ",
+		"Price":"71,000",
+		"Level":"14",
+		"Name":"Polyhand",
+		"Description":"You replace your entire hand with a hand made of reprogrammable microscopic adamantine prisms. With either a mental command or a programmable interface built into the hand, you can reconfigure your hand into the shape of various tools. The hand can contain programming for nine different tools, in addition to a configuration for a normal hand for your species. As a move action, you can switch the setting, causing the adamantine pieces to realign into the shape of the chosen tool. The tool has all the flexibility of the normal tool (or of a hand, if set to that). Programming a new tool into the polyhand takes 10 minutes, and you must choose either to fill an empty slot or to replace a programmed tool. The tool replicated must be 8th level or lower. The polyhand can replicate the moving parts of a tool, but you must supply any fuel or batteries needed for the tool to function. The tool cannot produce substances, and since it's not very conductive (important so as to avoid shocking the user), it can't serve as a power conduit or data transmission line. The GM has final say in deciding which tools you can duplicate. The tools within engineering kits and similar kits can be duplicated, subject to the restrictions above. You can't replace the hand setting based on your biology, which is required for the polyhand to function properly. You can add a hand corresponding to another species in any slot that isn't reserved; for instance, a human could program her polyhand to replicate a shirren hand. This can't duplicate features of a unique individual, such as thumbprints. You can install a polyhand into a prosthetic limb that replaces an arm as if the prosthetic were a natural arm. The adamantine construction makes the polyhand extremely durable (see page 408 in Chapter 11 for more information about adamantine). This doesn't change the amount of unarmed strike damage, no matter the form your polyhand is in. The polyhand can't maintain structural integrity if extended too far, so it can't assume a form more than one and a half feet long in any dimension. Consequently, it can't extend your reach. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Skin ",
+		"Price":"163,500",
+		"Level":"16",
+		"Name":"Dermal plating, mk 6",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,025</td><td>1</td></tr><tr><td>Mk2</td><td>7</td><td>6,950</td><td>2</td></tr><tr><td>Mk3</td><td>9</td><td>17,975</td><td>3</td></tr><tr><td>Mk4</td><td>12</td><td>48,850</td><td>4</td></tr><tr><td>Mk5</td><td>14</td><td>105,000</td><td>5</td></tr><tr><td>Mk6</td><td>16</td><td>163,500</td><td>6</td></tr><tr><td>Mk7</td><td>19</td><td>542,000</td><td>7</td></tr></table>You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Cybernetics",
+		"Body Parts":"Skin ",
+		"Price":"542,000",
+		"Level":"19",
+		"Name":"Dermal plating, mk 7",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Dr</th></tr><tr><td>Mk1</td><td>5</td><td>3,025</td><td>1</td></tr><tr><td>Mk2</td><td>7</td><td>6,950</td><td>2</td></tr><tr><td>Mk3</td><td>9</td><td>17,975</td><td>3</td></tr><tr><td>Mk4</td><td>12</td><td>48,850</td><td>4</td></tr><tr><td>Mk5</td><td>14</td><td>105,000</td><td>5</td></tr><tr><td>Mk6</td><td>16</td><td>163,500</td><td>6</td></tr><tr><td>Mk7</td><td>19</td><td>542,000</td><td>7</td></tr></table>You line your skin with hardened composite plates that deflect physical attacks. You gain an amount of damage reduction that depends on the model of your dermal plating. If you have natural damage reduction equal to or greater than your dermal plating, adding dermal plating increases the value of your natural DR by 1. If you have natural DR of a value less than your dermal plating, the value of DR from your dermal plating increases by 1. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"370",
+		"Level":"1",
+		"Name":"Morphic skin, basic",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Basic</td><td>1</td><td>370</td></tr><tr><td>Advanced</td><td>4</td><td>2,030</td></tr><tr><td>Doppelganger</td><td>6</td><td>4,400</td></tr></table>Your skin is linked to implanted magical glands that release mutagenic enzymes and transmutation magic. Using morphic skin requires you to concentrate on the desired features during a 10-minute rest to regain Stamina Points; this is an exception to the normal rule that you can't perform any tasks while taking a 10-minute rest to recover your Stamina Points. The change completes at the end of the rest. Basic morphic skin allows you to alter your appearance and voice within the normal bounds for your species, age, weight, and sex. You can adjust your height by up to 3 inches, become broader or thinner, become lighter or darker, alter apparent musculature (although your ability scores do not change), and adjust the shape of your features and the color of your hair, scales, or similar minor features. You ignore any penalties to Disguise checks for altering these major features, but you lack enough control to precisely match a specific individual. Advanced morphic skin offers the same options as the basic model, as well as the ability to change your apparent sex and age, alter your height by up to 1 foot, and gain features of another species of the same creature type (although you don't gain or lose abilities as a result). Doppelganger morphic skin offers the same options as the advanced model, as well as the ability to assume a specific individual's appearance within the augmentation's limits. When mimicking an individual this way, you gain a +10 circumstance bonus to your Disguise check to alter your form and to skill checks to bypass biometric security keyed to that individual. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Throat ",
+		"Price":"220",
+		"Level":"1",
+		"Name":"Technopathy node",
+		"Description":"A small metallic node etched with arcane symbols implanted in your voice box allows you to silently vocalize messages to constructs with the technological subtype or to nearby computers designed to receive messages. As a standard action, you can send a short message in a language you know to up to three target creatures or computers you are observing within 100 feet and potentially receive a short reply, per telepathic message. Alternatively, as a standard action, you can send a short message in a language you know to a single target computer you are observing within 100 feet and have that computer display that message, allowing anyone observing that computer to read it without leaving any trace of the message's origin. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Spinal column ",
+		"Price":"515",
+		"Level":"2",
+		"Name":"Gravitational harness, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>2</td><td>515</td></tr><tr><td>Mk2</td><td>9</td><td>12,700</td></tr><tr><td>Mk3</td><td>15</td><td>118,500</td></tr></table>Slim neutronium-core gravitational crystals attached to your spine using intense alchemical processes allow you to manipulate gravity once per day. With a mk 1 gravitational harness, you can increase or lower gravity for yourself and everything you carry by one step for 2 rounds. This applies the usual effects of lower gravity, including falling more slowly and increased carrying capacity. You can activate, change, or end the effect as a standard action or reaction. If you use a reaction, you can't take a standard action on your next turn. You can't make gravity stronger than high gravity or weaker than light gravity. In zero gravity, activating the augmentation instead grants you a supernatural fly speed of 15 feet with perfect maneuverability. You can't use the fly speed to run or while overburdened. A mk 2 gravitational harness functions as the mk 1 model, except as follows. The effect lasts for a total of 10 rounds, though you need not use them consecutively. The augmentation can increase or decrease your gravity by up to two steps or negate gravity for you in an area of standard or light gravity. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 30 feet. A mk 3 gravitation harness functions as the mk 2 model, except as follows. The effect lasts for a total of 10 minutes. You need not use the minutes consecutively, but you must use them in 1-minute increments. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 60 feet. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Eyes ",
+		"Price":"965",
+		"Level":"2",
+		"Name":"Psychoactive eyes,fascinating",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Fascinating</td><td>2</td><td>965</td></tr><tr><td>Charming</td><td>6</td><td>4,250</td></tr></table>Your eyes are injected with nanite-controlled psychoactive dyes. Once per day as a standard action, you can activate a fascinating gaze with a duration of concentration. Creatures of your type within 30 feet that see you must succeed at a Will saving throw (DC = 10 + half your character level + your Charisma modifier) or be fascinated for as long as they can see you. A creature that succeeds at this saving throw is immune to your gaze for 24 hours. If you break line of sight, the effect ends for those targets and they become immune to it for 24  hours. This is a mind-affecting gaze attack (Alien Archive 154). Charming psychoactive eyes charm creatures per charm person instead of fascinating them, but they otherwise function the same way as fascinating psychoactive eyes. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Ears ",
+		"Price":"1,225",
+		"Level":"3",
+		"Name":"Intercepting ears, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>3</td><td>1,225</td></tr><tr><td>Mk2</td><td>9</td><td>13,600</td></tr></table>Your eardrums are partially perforated with psychic crystals that resonate at the frequencies commonly used by telepathy. Whenever a creature within 30 feet of you sends or receives a telepathic message using limited telepathy or telepathic message, you can overhear the message with a successful DC 25 Perception check (this requires no action). For mk 2 intercepting ears the Perception check DC is 20. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"All feet ",
+		"Price":"2,260",
+		"Level":"4",
+		"Name":"Force soles, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk</td></tr></table>Mk-2 8 10,700 - Nodes in the soles of your feet project tiny fields of force energy when you intentionally step into thin air, allowing you to walk as if you were on solid ground as long as you are not encumbered, even in zero gravity. Ascending into the air is similar to walking up an incline. The maximum upward angle possible is 45 degrees, and you move at a rate equal to half your normal land speed. You can move your full land speed horizontally or up to 45 degrees downward. Unless you have mk 2 force soles, you must end your movement on the ground or you fall. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"2,030",
+		"Level":"4",
+		"Name":"Morphic skin, advanced",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Basic</td><td>1</td><td>370</td></tr><tr><td>Advanced</td><td>4</td><td>2,030</td></tr><tr><td>Doppelganger</td><td>6</td><td>4,400</td></tr></table>Your skin is linked to implanted magical glands that release mutagenic enzymes and transmutation magic. Using morphic skin requires you to concentrate on the desired features during a 10-minute rest to regain Stamina Points; this is an exception to the normal rule that you can't perform any tasks while taking a 10-minute rest to recover your Stamina Points. The change completes at the end of the rest. Basic morphic skin allows you to alter your appearance and voice within the normal bounds for your species, age, weight, and sex. You can adjust your height by up to 3 inches, become broader or thinner, become lighter or darker, alter apparent musculature (although your ability scores do not change), and adjust the shape of your features and the color of your hair, scales, or similar minor features. You ignore any penalties to Disguise checks for altering these major features, but you lack enough control to precisely match a specific individual. Advanced morphic skin offers the same options as the basic model, as well as the ability to change your apparent sex and age, alter your height by up to 1 foot, and gain features of another species of the same creature type (although you don't gain or lose abilities as a result). Doppelganger morphic skin offers the same options as the advanced model, as well as the ability to assume a specific individual's appearance within the augmentation's limits. When mimicking an individual this way, you gain a +10 circumstance bonus to your Disguise check to alter your form and to skill checks to bypass biometric security keyed to that individual. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"3,075",
+		"Level":"5",
+		"Name":"Charged skin",
+		"Description":"Your skin slowly generates electricity that can be used to power devices that require power measured in charges from a battery to function, such as a powered weapon. You must be touching the item to use it. Your charged skin holds 10 such charges, which are replenished each day after a full night's rest. You can't charge a battery or item with your charged skin; you can spend charges directly from it only to power held devices. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Ears ",
+		"Price":"2,830",
+		"Level":"5",
+		"Name":"Selective ears",
+		"Description":"Your ears are implanted with magical sound-dampening membranes. You can activate selective ears as a move action or as a reaction to protect yourself from dangerous sounds. When you activate your selective ears as a reaction, you can't take a move action on your next turn. Selective ears have three modes: inactive, muffling, and silence. Your selective ears remain in their current mode until you change them. While your selective ears are in muffling mode, you take a –2 penalty to initiative checks and hearing-based Perception checks, but you can't be deafened for more than 1 round by sonic effects and you have sonic resistance 1. While your selective ears are in silence mode, you are deafened and thus immune to sound-based sensedependent effects, and you also have sonic resistance 5. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"4,400",
+		"Level":"6",
+		"Name":"Morphic skin, doppelganger",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Basic</td><td>1</td><td>370</td></tr><tr><td>Advanced</td><td>4</td><td>2,030</td></tr><tr><td>Doppelganger</td><td>6</td><td>4,400</td></tr></table>Your skin is linked to implanted magical glands that release mutagenic enzymes and transmutation magic. Using morphic skin requires you to concentrate on the desired features during a 10-minute rest to regain Stamina Points; this is an exception to the normal rule that you can't perform any tasks while taking a 10-minute rest to recover your Stamina Points. The change completes at the end of the rest. Basic morphic skin allows you to alter your appearance and voice within the normal bounds for your species, age, weight, and sex. You can adjust your height by up to 3 inches, become broader or thinner, become lighter or darker, alter apparent musculature (although your ability scores do not change), and adjust the shape of your features and the color of your hair, scales, or similar minor features. You ignore any penalties to Disguise checks for altering these major features, but you lack enough control to precisely match a specific individual. Advanced morphic skin offers the same options as the basic model, as well as the ability to change your apparent sex and age, alter your height by up to 1 foot, and gain features of another species of the same creature type (although you don't gain or lose abilities as a result). Doppelganger morphic skin offers the same options as the advanced model, as well as the ability to assume a specific individual's appearance within the augmentation's limits. When mimicking an individual this way, you gain a +10 circumstance bonus to your Disguise check to alter your form and to skill checks to bypass biometric security keyed to that individual. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Eyes ",
+		"Price":"4,250",
+		"Level":"6",
+		"Name":"Psychoactive eyes, charming",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Fascinating</td><td>2</td><td>965</td></tr><tr><td>Charming</td><td>6</td><td>4,250</td></tr></table>Your eyes are injected with nanite-controlled psychoactive dyes. Once per day as a standard action, you can activate a fascinating gaze with a duration of concentration. Creatures of your type within 30 feet that see you must succeed at a Will saving throw (DC = 10 + half your character level + your Charisma modifier) or be fascinated for as long as they can see you. A creature that succeeds at this saving throw is immune to your gaze for 24 hours. If you break line of sight, the effect ends for those targets and they become immune to it for 24  hours. This is a mind-affecting gaze attack (Alien Archive 154). Charming psychoactive eyes charm creatures per charm person instead of fascinating them, but they otherwise function the same way as fascinating psychoactive eyes. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Endocrine ",
+		"Price":"5,500",
+		"Level":"7",
+		"Name":"Restless pineal gland",
+		"Description":"The melatonin produced by a restless pineal gland is supercharged with mystic energy. You need only 2 hours of sleep each day and this allows you to regain daily-use abilities and slots, but you can't regain your daily abilities spell slots more than once per day. In addition, you gain a +4 enhancement bonus to saving throws against spells and other effects that would put you to sleep. Once per day, you can wake yourself from sleeping as a full action. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Heart ",
+		"Price":"6,300",
+		"Level":"7",
+		"Name":"Synchronous heart",
+		"Description":"Your heart is fitted with occult fixtures that connect its rhythm to the energy of nearby living creatures. You have blindsight (life) with a range of 30 feet, but only for dying and stable living creatures. As a reaction, you can allow an ally within 30 feet to spend your Resolve Points to stabilize or stay in the fight. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Heart ",
+		"Price":"8,220",
+		"Level":"8",
+		"Name":"Fluttering heart",
+		"Description":"Your heart has necromantic onyx implants that put your autonomous functions under limited conscious control, allowing you to make yourself look weaker than you actually are. As a full  action, you can convincingly feign a display of meekness that lasts until you attack or perform some other hostile action (such as casting a harmful spell) or 10 minutes have passed, whichever comes first. During this time, hostile creatures attack other viable targets instead of you if any exist, though it is possible you might be included in area effects (foes don't avoid targeting you, they simply prioritize other viable targets). Once you use your fluttering heart, you can't use it again until you have rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately.action, you can convincingly feign a display of meekness that lasts until you attack or perform some other hostile action (such as casting a harmful spell) or 10 minutes have passed, whichever comes first. During this time, hostile creatures attack other viable targets instead of you if any exist, though it is possible you might be included in area effects (foes don't avoid targeting you, they simply prioritize other viable targets). Once you use your fluttering heart, you can't use it again until you have rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"All feet ",
+		"Price":"10,700",
+		"Level":"8",
+		"Name":"Force soles, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk</td></tr></table>Mk-2 8 10,700 - Nodes in the soles of your feet project tiny fields of force energy when you intentionally step into thin air, allowing you to walk as if you were on solid ground as long as you are not encumbered, even in zero gravity. Ascending into the air is similar to walking up an incline. The maximum upward angle possible is 45 degrees, and you move at a rate equal to half your normal land speed. You can move your full land speed horizontally or up to 45 degrees downward. Unless you have mk 2 force soles, you must end your movement on the ground or you fall. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Hand ",
+		"Price":"14,300",
+		"Level":"9",
+		"Name":"Dispelling hand",
+		"Description":"Holographic mystic sigils project from your hand when you  activate this implant. Your hand must be free to do so. As a reaction, you can gain a +1 insight bonus to your AC against a spell that requires a successful attack roll. Alternatively, as a standard action, you can use dispel magic as a spell-like ability with a caster level equal to your level, but it can't counter spells and it can't target anything other than you unless you touch the target. To affect an unwilling target, you must hit it with a melee attack against its EAC; you activate the augmentation as part of the attack roll, and you can add your key ability score modifier to this attack roll instead of your Strength modifier if it is higher. Once you use dispel magic this way, you can't use your dispelling hand for either of its uses until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Spinal column ",
+		"Price":"12,700",
+		"Level":"9",
+		"Name":"Gravitational harness, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>2</td><td>515</td></tr><tr><td>Mk2</td><td>9</td><td>12,700</td></tr><tr><td>Mk3</td><td>15</td><td>118,500</td></tr></table>Slim neutronium-core gravitational crystals attached to your spine using intense alchemical processes allow you to manipulate gravity once per day. With a mk 1 gravitational harness, you can increase or lower gravity for yourself and everything you carry by one step for 2 rounds. This applies the usual effects of lower gravity, including falling more slowly and increased carrying capacity. You can activate, change, or end the effect as a standard action or reaction. If you use a reaction, you can't take a standard action on your next turn. You can't make gravity stronger than high gravity or weaker than light gravity. In zero gravity, activating the augmentation instead grants you a supernatural fly speed of 15 feet with perfect maneuverability. You can't use the fly speed to run or while overburdened. A mk 2 gravitational harness functions as the mk 1 model, except as follows. The effect lasts for a total of 10 rounds, though you need not use them consecutively. The augmentation can increase or decrease your gravity by up to two steps or negate gravity for you in an area of standard or light gravity. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 30 feet. A mk 3 gravitation harness functions as the mk 2 model, except as follows. The effect lasts for a total of 10 minutes. You need not use the minutes consecutively, but you must use them in 1-minute increments. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 60 feet. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Ears ",
+		"Price":"13,600",
+		"Level":"9",
+		"Name":"Intercepting ears, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>3</td><td>1,225</td></tr><tr><td>Mk2</td><td>9</td><td>13,600</td></tr></table>Your eardrums are partially perforated with psychic crystals that resonate at the frequencies commonly used by telepathy. Whenever a creature within 30 feet of you sends or receives a telepathic message using limited telepathy or telepathic message, you can overhear the message with a successful DC 25 Perception check (this requires no action). For mk 2 intercepting ears the Perception check DC is 20. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"18,000",
+		"Level":"10",
+		"Name":"Cloaking skin, standard",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>10</td><td>18,000</td></tr><tr><td>Greater</td><td>17</td><td>270,000</td></tr></table>Many of your pores are replaced with magically regulated and directed holographic projectors that work together to automatically match your surrounding environment, rendering you invisible per invisibility. Once per day, you can enable your cloaking skin as a standard action, turning you invisible for 10 minutes. A greater cloaking skin functions as greater invisibility, but the effect lasts for only 10 rounds. You can disable either model of cloaking skin as a move action. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Brain and eyes ",
+		"Price":"18,300",
+		"Level":"10",
+		"Name":"Holographic eyes, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>10</td><td>18,300</td></tr><tr><td>Mk2</td><td>13</td><td>49,700</td></tr><tr><td>Mk3</td><td>17</td><td>266,000</td></tr><tr><td>Mk4</td><td>20</td><td>820,000</td></tr></table>A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as holographic image with a spell level equal to the model number of your holographic eyes at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your holographic eyes) immediately ends your concentration. The effect's caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Eyes ",
+		"Price":"25,900",
+		"Level":"11",
+		"Name":"Arcane lenses",
+		"Description":"Psychically active crystals replace the lenses of your eyes. You gain arcane sight, per the spell, as a continuous ability. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Throat ",
+		"Price":"25,400",
+		"Level":"11",
+		"Name":"Enchanting vocal modulator, monofrequency",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Monofrequency</td><td>11</td><td>25,400</td></tr><tr><td>Duofrequency</td><td>14</td><td>66,500</td></tr><tr><td>Quadfrequency</td><td>17</td><td>225,000</td></tr></table>Your voice box has an enchanted digital modulator that can alter its frequency to be supernaturally compelling. As a move action you can calibrate it to a single creature that you have heard and understood speaking or using other sound-based communication. It remains calibrated to that target until you pick a new target. You gain a +2 insight bonus to Bluff, Diplomacy, and Intimidate checks to influence that creature using your voice (not other forms of communication). In addition, you can cast suggestion once per day (DC = 10 + half your character level + your Charisma modifier) as a standard action, targeting a creature your system is calibrated to. A duofrequency enchanting vocal modulator can target two creatures at once. It can be calibrated to two targets with a single move action, and its suggestion function can be used to target both with a single command. Similarly, a quadfrequency enchanting vocal modulator can target up to four creatures. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"All legs ",
+		"Price":"38,000",
+		"Level":"12",
+		"Name":"Dimensional braces",
+		"Description":"Your legs are fitted with braces attuned to the resonance frequency of the Astral Plane. Once per day as a standard action, you can teleport yourself, per dimension door, with a maximum range of 120 feet. You can't bring any other creatures with you. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Brain ",
+		"Price":"36,400",
+		"Level":"12",
+		"Name":"Divining mirror neurons",
+		"Description":"Neurons in your brain are wired into a predictive AI that uses algorithms and divinations to predict a single humanoid's actions. As a standard action, you can target any creature of your type that you are observing to gain split-second predictions for as long as you continue to observe it or until you deactivate your augmentation as a swift action. During this time, you gain a +1 insight bonus to saving throws and skill checks against that creature and against effects that creature produces. In addition, if you concentrate as a move action, you gain a +1 insight bonus to attack rolls against that creature until the beginning of your next turn. You can target only one creature at a time. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Brain and eyes ",
+		"Price":"49,700",
+		"Level":"13",
+		"Name":"Holographic eyes, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>10</td><td>18,300</td></tr><tr><td>Mk2</td><td>13</td><td>49,700</td></tr><tr><td>Mk3</td><td>17</td><td>266,000</td></tr><tr><td>Mk4</td><td>20</td><td>820,000</td></tr></table>A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as holographic image with a spell level equal to the model number of your holographic eyes at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your holographic eyes) immediately ends your concentration. The effect's caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Throat ",
+		"Price":"66,500",
+		"Level":"14",
+		"Name":"Enchanting vocal modulator, duofrequency",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Monofrequency</td><td>11</td><td>25,400</td></tr><tr><td>Duofrequency</td><td>14</td><td>66,500</td></tr><tr><td>Quadfrequency</td><td>17</td><td>225,000</td></tr></table>Your voice box has an enchanted digital modulator that can alter its frequency to be supernaturally compelling. As a move action you can calibrate it to a single creature that you have heard and understood speaking or using other sound-based communication. It remains calibrated to that target until you pick a new target. You gain a +2 insight bonus to Bluff, Diplomacy, and Intimidate checks to influence that creature using your voice (not other forms of communication). In addition, you can cast suggestion once per day (DC = 10 + half your character level + your Charisma modifier) as a standard action, targeting a creature your system is calibrated to. A duofrequency enchanting vocal modulator can target two creatures at once. It can be calibrated to two targets with a single move action, and its suggestion function can be used to target both with a single command. Similarly, a quadfrequency enchanting vocal modulator can target up to four creatures. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"All hands ",
+		"Price":"69,500",
+		"Level":"14",
+		"Name":"Force palms",
+		"Description":"Arcane nodes implanted in your palms can generate fields of force energy. As a full action, you can create a globe of force that functions as resilient sphere but contains only you. The effect has a duration of concentration, to a maximum of 1 minute. Alternatively, as a full action, you can attempt to place another creature that is your size or smaller within a globe of force that is just large enough for the creature to fit in without squeezing. To do so, you must hit that creature with a melee attack against its EAC; instead of adding your Strength modifier to this attack roll, you can add your key ability score modifier if it is higher. Once you use your force palms, you can't use them again until you've rested for 10 minutes to regain Stamina Points. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Arm and hand ",
+		"Price":"75,000",
+		"Level":"14",
+		"Name":"Psychokinetic sleeve",
+		"Description":"A mesh of starmetal-alloy fibers inserted under your skin connects to the nerves of your arm and hand. As a standard action, you can attempt a ranged attack with a range increment of 60 feet that acts as a bull rush, disarm, grapple (including pin), or trip combat maneuver. You can add your key ability score modifier to this attack roll instead of your Strength modifier if it is higher. If you successfully disarm an item, you can't automatically catch it. If you successfully grapple a target, the condition doesn't end if you move and the target can't try to grapple you in return. The DC of the Acrobatics check to escape the grapple is 31. Once you use your psychokinetic sleeve, you can't use it again until you have rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any point to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"109,400",
+		"Level":"15",
+		"Name":"Antimagic skin, mk 1",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Spell Resistance</th></tr><tr><td>Mk1</td><td>15</td><td>109,400</td><td>20</td></tr><tr><td>Mk2</td><td>16</td><td>170,800</td><td>22</td></tr><tr><td>Mk3</td><td>17</td><td>263,000</td><td>24</td></tr><tr><td>Mk4</td><td>18</td><td>388,000</td><td>26</td></tr><tr><td>Mk5</td><td>19</td><td>587,000</td><td>28</td></tr><tr><td>Mk6</td><td>20</td><td>891,000</td><td>30</td></tr></table>Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can't take a move action on your next turn. Once you use your antimagic skin, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Spinal column ",
+		"Price":"118,500",
+		"Level":"15",
+		"Name":"Gravitational harness, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>2</td><td>515</td></tr><tr><td>Mk2</td><td>9</td><td>12,700</td></tr><tr><td>Mk3</td><td>15</td><td>118,500</td></tr></table>Slim neutronium-core gravitational crystals attached to your spine using intense alchemical processes allow you to manipulate gravity once per day. With a mk 1 gravitational harness, you can increase or lower gravity for yourself and everything you carry by one step for 2 rounds. This applies the usual effects of lower gravity, including falling more slowly and increased carrying capacity. You can activate, change, or end the effect as a standard action or reaction. If you use a reaction, you can't take a standard action on your next turn. You can't make gravity stronger than high gravity or weaker than light gravity. In zero gravity, activating the augmentation instead grants you a supernatural fly speed of 15 feet with perfect maneuverability. You can't use the fly speed to run or while overburdened. A mk 2 gravitational harness functions as the mk 1 model, except as follows. The effect lasts for a total of 10 rounds, though you need not use them consecutively. The augmentation can increase or decrease your gravity by up to two steps or negate gravity for you in an area of standard or light gravity. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 30 feet. A mk 3 gravitation harness functions as the mk 2 model, except as follows. The effect lasts for a total of 10 minutes. You need not use the minutes consecutively, but you must use them in 1-minute increments. While you have the augmentation active in zero gravity or while negating gravity for yourself, your fly speed is 60 feet. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"170,800",
+		"Level":"16",
+		"Name":"Antimagic skin, mk 2",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Spell Resistance</th></tr><tr><td>Mk1</td><td>15</td><td>109,400</td><td>20</td></tr><tr><td>Mk2</td><td>16</td><td>170,800</td><td>22</td></tr><tr><td>Mk3</td><td>17</td><td>263,000</td><td>24</td></tr><tr><td>Mk4</td><td>18</td><td>388,000</td><td>26</td></tr><tr><td>Mk5</td><td>19</td><td>587,000</td><td>28</td></tr><tr><td>Mk6</td><td>20</td><td>891,000</td><td>30</td></tr></table>Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can't take a move action on your next turn. Once you use your antimagic skin, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"263,000",
+		"Level":"17",
+		"Name":"Antimagic skin, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Spell Resistance</th></tr><tr><td>Mk1</td><td>15</td><td>109,400</td><td>20</td></tr><tr><td>Mk2</td><td>16</td><td>170,800</td><td>22</td></tr><tr><td>Mk3</td><td>17</td><td>263,000</td><td>24</td></tr><tr><td>Mk4</td><td>18</td><td>388,000</td><td>26</td></tr><tr><td>Mk5</td><td>19</td><td>587,000</td><td>28</td></tr><tr><td>Mk6</td><td>20</td><td>891,000</td><td>30</td></tr></table>Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can't take a move action on your next turn. Once you use your antimagic skin, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"270,000",
+		"Level":"17",
+		"Name":"Cloaking skin, greater",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Standard</td><td>10</td><td>18,000</td></tr><tr><td>Greater</td><td>17</td><td>270,000</td></tr></table>Many of your pores are replaced with magically regulated and directed holographic projectors that work together to automatically match your surrounding environment, rendering you invisible per invisibility. Once per day, you can enable your cloaking skin as a standard action, turning you invisible for 10 minutes. A greater cloaking skin functions as greater invisibility, but the effect lasts for only 10 rounds. You can disable either model of cloaking skin as a move action. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Throat ",
+		"Price":"225,000",
+		"Level":"17",
+		"Name":"Enchanting vocal modulator, quadfrequency",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Monofrequency</td><td>11</td><td>25,400</td></tr><tr><td>Duofrequency</td><td>14</td><td>66,500</td></tr><tr><td>Quadfrequency</td><td>17</td><td>225,000</td></tr></table>Your voice box has an enchanted digital modulator that can alter its frequency to be supernaturally compelling. As a move action you can calibrate it to a single creature that you have heard and understood speaking or using other sound-based communication. It remains calibrated to that target until you pick a new target. You gain a +2 insight bonus to Bluff, Diplomacy, and Intimidate checks to influence that creature using your voice (not other forms of communication). In addition, you can cast suggestion once per day (DC = 10 + half your character level + your Charisma modifier) as a standard action, targeting a creature your system is calibrated to. A duofrequency enchanting vocal modulator can target two creatures at once. It can be calibrated to two targets with a single move action, and its suggestion function can be used to target both with a single command. Similarly, a quadfrequency enchanting vocal modulator can target up to four creatures. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Brain and eyes ",
+		"Price":"266,000",
+		"Level":"17",
+		"Name":"Holographic eyes, mk 3",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>10</td><td>18,300</td></tr><tr><td>Mk2</td><td>13</td><td>49,700</td></tr><tr><td>Mk3</td><td>17</td><td>266,000</td></tr><tr><td>Mk4</td><td>20</td><td>820,000</td></tr></table>A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as holographic image with a spell level equal to the model number of your holographic eyes at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your holographic eyes) immediately ends your concentration. The effect's caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"388,000",
+		"Level":"18",
+		"Name":"Antimagic skin, mk 4",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Spell Resistance</th></tr><tr><td>Mk1</td><td>15</td><td>109,400</td><td>20</td></tr><tr><td>Mk2</td><td>16</td><td>170,800</td><td>22</td></tr><tr><td>Mk3</td><td>17</td><td>263,000</td><td>24</td></tr><tr><td>Mk4</td><td>18</td><td>388,000</td><td>26</td></tr><tr><td>Mk5</td><td>19</td><td>587,000</td><td>28</td></tr><tr><td>Mk6</td><td>20</td><td>891,000</td><td>30</td></tr></table>Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can't take a move action on your next turn. Once you use your antimagic skin, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Brain ",
+		"Price":"365,000",
+		"Level":"18",
+		"Name":"Control mirror neurons",
+		"Description":"Neurons in your brain that would normally help you imagine what another person is experiencing are amplified magically, allowing you to decide what another creature does. As a full action, you can target any creature of your type that you are observing and attempt to control that individual. This functions as dominate person (DC = 10 + half your level + your Charisma modifier) for as long as you continue to observe the target, except establishing the effect doesn't require an attack roll, and no command you give the target can take more than a standard action to complete. Issuing a command is a move action. You can't target a creature again for 24 hours after it succeeds at its saving throw against this effect or the duration ends. Once you use your control mirror neurons, you can't use them again until you've rested to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge them immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"587,000",
+		"Level":"19",
+		"Name":"Antimagic skin, mk 5",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Spell Resistance</th></tr><tr><td>Mk1</td><td>15</td><td>109,400</td><td>20</td></tr><tr><td>Mk2</td><td>16</td><td>170,800</td><td>22</td></tr><tr><td>Mk3</td><td>17</td><td>263,000</td><td>24</td></tr><tr><td>Mk4</td><td>18</td><td>388,000</td><td>26</td></tr><tr><td>Mk5</td><td>19</td><td>587,000</td><td>28</td></tr><tr><td>Mk6</td><td>20</td><td>891,000</td><td>30</td></tr></table>Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can't take a move action on your next turn. Once you use your antimagic skin, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Skin ",
+		"Price":"891,000",
+		"Level":"20",
+		"Name":"Antimagic skin, mk 6",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th><th class=interior>Spell Resistance</th></tr><tr><td>Mk1</td><td>15</td><td>109,400</td><td>20</td></tr><tr><td>Mk2</td><td>16</td><td>170,800</td><td>22</td></tr><tr><td>Mk3</td><td>17</td><td>263,000</td><td>24</td></tr><tr><td>Mk4</td><td>18</td><td>388,000</td><td>26</td></tr><tr><td>Mk5</td><td>19</td><td>587,000</td><td>28</td></tr><tr><td>Mk6</td><td>20</td><td>891,000</td><td>30</td></tr></table>Your skin is infused with alchemical components extracted from fey, hags, and other highly magic-resistant creatures. As a move action, you can gain spell resistance according to your model of antimagic skin for 1 minute. You can also gain this spell resistance as a reaction, but you then can't take a move action on your next turn. Once you use your antimagic skin, you can't use it again until you've rested for 10 minutes to regain Stamina Points, though you can spend 1 Resolve Point at any time to recharge it immediately. "
+	},
+	{
+		"Type":"Magitech",
+		"Body Parts":"Brain and eyes ",
+		"Price":"820,000",
+		"Level":"20",
+		"Name":"Holographic eyes, mk 4",
+		"Description":"<table><tr><th class=interior>Model</th><th class=interior>Level</th><th class=interior>Price</th></tr><tr><td>Mk1</td><td>10</td><td>18,300</td></tr><tr><td>Mk2</td><td>13</td><td>49,700</td></tr><tr><td>Mk3</td><td>17</td><td>266,000</td></tr><tr><td>Mk4</td><td>20</td><td>820,000</td></tr></table>A tiny rune is carved into your occipital lobe that is magically connected to microscopic holographic projectors implanted in your eyes. As a standard action, you can create an illusion that functions as holographic image with a spell level equal to the model number of your holographic eyes at any location you can see within range. You must concentrate on the illusion as a move action to maintain it, and you must keep your eyes on the illusion to concentrate, treating all other creatures as if they had concealment. Casting a spell (including creating a new illusion with your holographic eyes) immediately ends your concentration. The effect's caster level is equal to your level, and the Will save DC to disbelieve it is equal to 10 + half your level + your Intelligence modifier. "
+	}]}

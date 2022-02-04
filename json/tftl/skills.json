@@ -1,0 +1,138 @@
+﻿{
+    "data": [
+        {
+            "Skill": "Sneak",
+            "Subskill":"",
+            "Attributre": "Body",
+            "Description": "The ability to hide, sneak or steal.",
+            "Bonus_effect_1": "Give a success to another Kid.",
+            "Bonus_effect_2": "You find something unexpected, or more of what\r\nyou were looking for."
+        },
+        {
+            "Skill": "Force",
+            "Subskill":"",
+            "Attributre": "Body",
+            "Description": "The ability to lift heavy things, fight, and endure physically stressful situations.",
+            "Bonus_effect_1": "Give a success to another Kid.",
+            "Bonus_effect_2": "Impress, frighten or humiliate",
+            "Bonus_effect_3": "Take something from your opponent.",
+            "Bonus_effect_4": "Your opponent is knocked unconscious.",
+            "Bonus_effect_5": "You don’t need to roll to overcome the exact same Trouble in the future.",
+            "Bonus_effect_1": "You avoid any collateral damage."
+        },
+        {
+            "Skill": "Move",
+            "Subskill":"",
+            "Attributre": "Body",
+            "Description": "The ability to climb high, balance, run fast, and chase someone or get away.",
+            "Bonus_effect_1": "Give a success to another Kid.",
+            "Bonus_effect_2": "Impress someone.",
+            "Bonus_effect_3": "No one notices you."
+        },
+        {
+            "Skill": "Tinker",
+            "Subskill": "Build",
+            "Attributre": "Tech",
+            "Description": "The ability to build and manipulate machines and other mechanical items.<br>The Gamemaster will tell you what it takes to build\r\nsomething. Some examples of what might be needed:<br>&bull; You need a certain item.<br>&bull; You need to sucessfully <b>Calculate</b><br>&bull; You need to sucesfully <b> Comprehend</b><br>&bull; You need to sucessfully <b>Program</b>something<br>&bull; You need a lot of time.<br>&bull; You need new tools.<br><br>When you have what you need, you roll to overcome the Trouble of actually making the thing.  If the roll is sucessful, you write down the object as an Item with a bonus of +1.",
+            "Bonus_effect_1": "The thing is more durable than expected. Add +1 to the bonus (up to +3).",
+            "Bonus_effect_2": " The thing can do more than expected. Add +1 to the bonus (up to +3).",
+            "Bonus_effect_3": "The thing is more discreet than expected. Add +1 the bonus (up to +3)."
+        },
+        {
+            "Skill": "Tinker",
+            "Subskill": "Manipulate",
+            "Attributre": "Tech",
+            "Description": "The ability to build and manipulate machines and other mechanical items. The <b>Tinker</b> skill can also be used to break, use, or jury-rig mechanical things, to pick locks, and drive motor vechicles.  Sometimes you have to use <b>Calculate</b> first to figure out how to do it.",
+            "Bonus_effect_1": "Give a success to another Kid.",
+            "Bonus_effect_2": "You don’t need to roll to overcome the exact same Trouble in the future.",
+            "Bonus_effect_3": "You do it quickly.",
+            "Bonus_effect_4": "You do it quietly.",
+            "Bonus_effect_5": "You show off."
+        },
+        {
+            "Skill": "Program",
+            "Subskill": "Create",
+            "Attributre": "Tech",
+            "Description": "The ability to create and manipulate computer programs\r\nand electronic devices. This is a sister skill to <b>Tinker</b>, but\r\nused for electronic things rather than mechanical.<br> The Gamemaster will tell you what it takes to create\r\nsomething. Some examples of what might be needed:<br>&bull;You need a certain item.<br>&bull; You need to sucessfully <b>Calculate</b><br>&bull; You need to sucesfully <b> Comprehend</b><br>&bull; You need to sucessfully <b>Tinker</b>something<br>&bull; You need a lot of time.<br>&bull; You need new tool<br><br>When you have what you need, you roll to overcome the\r\nTrouble of actually creating the thing. If the roll is successful,\r\nwrite down the object as an Item with a bonus of +1.",
+            "Bonus_effect_1": "The thing is more durable than expected. Add +1 to the bonus (up to +3).",
+            "Bonus_effect_2": " The thing can do more than expected. Add +1 to the bonus (up to +3)."
+        },
+        {
+            "Skill": "Program",
+            "Subskill": "Manipulate",
+            "Attributre": "Tech",
+            "Description": "The ability to create and manipulate computer programs\r\nand electronic devices. This is a sister skill to <b>Tinker</b>, but\r\nused for electronic things rather than mechanical.<br>The <b>Program</b> skill can also be used to manipulate\r\nelectronic items. Examples include infecting a computer\r\nwith a virus, disabling an alarm or electronic\r\nlock, confusing or controlling robots, and operating\r\nstrange objects like time machines or transformation globes. Sometimes you have to use <b>calculate</b> first to\r\nfigure out how to do it.",
+            "Bonus_effect_1": "Give a success to another Kid",
+            "Bonus_effect_2": "You don’t need to roll to overcome the exact same Trouble in the future.",
+            "Bonus_effect_3": "You do it quickly.",
+            "Bonus_effect_4": "You get new or unexpected information.",
+            "Bonus_effect_5": "You show off."
+        },
+        {
+            "Skill": "Calculate",
+            "Subskill":"",
+            "Attributre": "Tech",
+            "Description": "The ability to know how technical objects work and\r\nhow to use them. It could be robots, machines, magnetrine\r\nships, cyborgs, or an alarm clock. If you succeed,\r\nyou get to ask two questions:<br>&bull; What is its purpose?<br>&bull; How does it work?<br>&bull; How can I use it? <br>&bull; Who built it? <br>&bull; What problems could it cause? <br>&bull; Is it illegal?",
+            "Bonus_effect_1": "Ask one additional question and take +1 die on one\r\nroll when you use the information (up to +3)."
+        },
+        {
+            "Skill": "Contact",
+            "Subskill":"",
+            "Attributre": "Heart",
+            "Description": "The ability to know the right person and can get a hold of\r\nher. You tell the Gamemaster who the person is, and roll to\r\novercome the Trouble of finding her. If you succeed, you\r\nfind her, or she finds the Kids ready and able to help. If you\r\nfail, the person doesn’t want to help you or maybe she even\r\nwants to hurt, humiliate or make life difficult for you, and\r\nwill come looking for you.",
+            "Bonus_effect_1": "The contact has all the right tools with her.",
+            "Bonus_effect_2": "The contact may heal one of your conditions.",
+            "Bonus_effect_3": "The contact brings more people, also ready to help",
+            "Bonus_effect_4": "You don’t have to roll to get a hold of the contact again during this mystery",
+            "Bonus_effect_5": "The contact knows something important",
+            "Bonus_effect_1": "You may use the contact once as an item with a  bonus of +1 (up to +3)."
+        },
+        {
+            "Skill": "Charm",
+            "Subskill":"",
+            "Attributre": "Heart",
+            "Description": "The ability to charm, lie, befriend, and make people\r\ndo what you want. As always, the Gamemaster decides\r\nwhat can plausibly be achieved,",
+            "Bonus_effect_1": "She keeps believing you.",
+            "Bonus_effect_2": "You have formed a lasting relationship",
+            "Bonus_effect_3": "She will take risks to help you.",
+            "Bonus_effect_4": "She will try to persuade others to believe you.",
+            "Bonus_effect_5": "She's frightened, confused, or impressed.",
+            "Bonus_effect_1": "She's infatuated."
+        },
+        {
+            "Skill": "Lead",
+            "Subskill": "Soothe",
+            "Attributre": "Heart",
+            "Description": "The ability to make your friends work together, to\r\nhelp them focus on the task at hand in difficult situations,\r\nand to soothe them when they are scared\r\nor confused.<br>If you spend time privately with another Kid, giving\r\nher advice and comfort, you may heal one of her Conditions.\r\nYou roll to overcome Trouble, and if you succeed,\r\nthe Condition is healed. If you fail, you suffer the\r\nsame Condition. You cannot heal Broken Kids using\r\nthis skill.",
+            "Bonus_effect_1": "Heal an additional Condition",
+            "Bonus_effect_2": "Heal one of your own conditions."
+        },
+        {
+            "Skill": "Lead",
+            "Subskill": "Inspire",
+            "Attributre": "Heart",
+            "Description": "The ability to make your friends work together, to\r\nhelp them focus on the task at hand in difficult situations,\r\nand to soothe them when they are scared\r\nor confused.<br>\r\nIf you have time with the other Kids, you may inspire\r\nand prepare them for a difficult situation. You\r\nroll to overcome Trouble, and your successes become\r\na dice pool (see the table below). You may, in the upcoming\r\nscenes, distribute bonus dice to the other Kids\r\nwhen they roll to overcome Troubles – but only if they\r\ndo as you say. You cannot give these dice to yourself. <br>\r\nIf you fail to<b> lead</b>, you must check a Condition,\r\nand ask the other Kids how the relationship has\r\nbeen hurt. There may only be one dice pool active\r\nat a time – the group cannot have more than one\r\nleader.<br>Leading Other Kids<br><table><thead><tr><th>Successes</th><th>Dice Pool</th></tr></thead><tr></tr><tr><td>1 success</td><td>2 dice</td></tr><tr><td>2 successes</td><td>4 dice</td></tr><tr><td>3 successes</td><td>4 dice</td></tr></table>"
+        },
+        {
+            "Skill": "Investigate",
+            "Subskill":"",
+            "Attributre": "Mind",
+            "Description": "The ability to find hidden objects, understand clues,\r\nbreak puzzles or survey a place or a situation. You get\r\nto ask two of these questions:<br>&bull; What is hidden here and where is it?<br>&bull; What does it mean? <br>&bull; What has happened here?<br>&bull; How can I get into/out of/past something?<br>&bull; What threats can I perceive here?<br>&bull; Where is it?<br><br> If the roll fails, you have misunderstood something,\r\nsomeone has found out something about you, or you\r\nsuffer a Condition. The Gamemaster decides.",
+            "Bonus_effect_1": "Ask one additional question and get +1 die on one\r\nroll when you use the information (up to +3)."
+        },
+        {
+            "Skill": "Comprehend",
+            "Subskill":"",
+            "Attributre": "Mind",
+            "Description": "The ability to have the right piece of information or to be\r\nable to find it at the school library or a similar location.\r\nThe Gamemaster will give you the information, or ask\r\nyou to come up with something on your own. If you fail\r\nthe roll, the Gamemaster gives you bad news or the wrong\r\ninformation (the Gamemaster doesn’t say which it is).",
+            "Bonus_effect_1": "You get additional information and +1 bonus die to\r\none roll when you use the information (up to +3)."
+        },
+        {
+            "Skill": "Empathize",
+            "Subskill":"",
+            "Attributre": "Mind",
+            "Description": "The ability to study what makes a person, an animal\r\nor a conscious robot or cyborg tick, and how to find\r\nits weakness. You need time to study or talk to the\r\ncreature or person to be able to roll for the skill. If you\r\nsucceed, you get to ask two questions.<br>&bull;What is her weak spot?<br>&bull;How can I make her do something<br>&bull;What does she feel?<br>&bull; What does she want?<br>&bull; What will she do?<br>&bull; s she lying?<br><br> If the roll fails, the Gamemaster either gives you bad news\r\nor the wrong information (the Gamemaster doesn’t tell\r\nwhich it is) or makes something bad happen.",
+            "Bonus_effect_1": "Ask one additional question and take +1 die on one\r\nroll when you use the information (up to +3)."
+        }
+    ]
+}

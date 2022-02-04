@@ -1,0 +1,18 @@
+{"data":[
+  {
+    "Name":"Dealing Nonlethal Damage",
+    "Description":"Most  attacks  that  deal  nonlethal  damage  work  like  any  other  attacks,  and  they  deal  damage  to  your  Stamina  Points  or  Hit  Points  as  normal.  However,  when  nonlethal  damage  would  reduce you to 0 or fewer Hit Points, you are reduced to exactly 0 HP and fall unconscious, but you are stable instead of dying."
+  },
+  {
+    "Name":"Lethal Damage with a Weapon That Deals Nonlethal Damage",
+    "Description":"You can use a weapon that deals nonlethal damage to deal lethal damage instead, but you take a –4 penalty to your attack roll."
+  },
+  {
+    "Name":"Nonlethal Damage with a Weapon That Deals Lethal Damage",
+    "Description":"You can use a weapon that deals lethal damage to deal nonlethal damage instead, but you take a –4 penalty to your attack roll."
+  }
+
+
+
+
+]}
