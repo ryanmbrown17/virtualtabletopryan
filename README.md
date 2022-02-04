@@ -5,5 +5,4 @@ Downloads and 5e tools not present on GitHub.  To see current site visit virtual
 
 5e tools made folks at 5e.tools, local version downloaded to the server.
 
-Downloads are made by the respective companies and I and this website claim no rights
 
